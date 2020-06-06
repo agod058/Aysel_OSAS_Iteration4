@@ -1,0 +1,1260 @@
+Primary_ID,Timestamp,Age,Gender,Country,state,self_employed,family_history,treatment,work_interfere,no_employees,remote_work,tech_company,benefits,care_options
+1,27/08/14 11:29,37,Female,United States,IL,NA,No,Yes,Often,Jun-25,No,Yes,Yes,Not sure
+2,27/08/14 11:29,44,M,United States,IN,NA,No,No,Rarely,More than 1000,No,No,Don't know,No
+3,27/08/14 11:29,32,Male,Canada,NA,NA,No,No,Rarely,Jun-25,No,Yes,No,No
+4,27/08/14 11:29,31,Male,United Kingdom,NA,NA,Yes,Yes,Often,26-100,No,Yes,No,Yes
+5,27/08/14 11:30,31,Male,United States,TX,NA,No,No,Never,100-500,Yes,Yes,Yes,No
+6,27/08/14 11:31,33,Male,United States,TN,NA,Yes,No,Sometimes,Jun-25,No,Yes,Yes,Not sure
+7,27/08/14 11:31,35,Female,United States,MI,NA,Yes,Yes,Sometimes,1-May,Yes,Yes,No,No
+8,27/08/14 11:32,39,M,Canada,NA,NA,No,No,Never,1-May,Yes,Yes,No,Yes
+9,27/08/14 11:32,42,Female,United States,IL,NA,Yes,Yes,Sometimes,100-500,No,Yes,Yes,Yes
+10,27/08/14 11:32,23,Male,Canada,NA,NA,No,No,Never,26-100,No,Yes,Don't know,No
+11,27/08/14 11:32,31,Male,United States,OH,NA,No,Yes,Sometimes,Jun-25,Yes,Yes,Don't know,No
+12,27/08/14 11:32,29,male,Bulgaria,NA,NA,No,No,Never,100-500,Yes,Yes,Don't know,Not sure
+13,27/08/14 11:33,42,female,United States,CA,NA,Yes,Yes,Sometimes,26-100,No,No,Yes,Yes
+14,27/08/14 11:33,36,Male,United States,CT,NA,Yes,No,Never,500-1000,No,Yes,Don't know,Not sure
+15,27/08/14 11:33,27,Male,Canada,NA,NA,No,No,Never,Jun-25,No,Yes,Don't know,Not sure
+16,27/08/14 11:34,29,female,United States,IL,NA,Yes,Yes,Rarely,26-100,No,Yes,Yes,Not sure
+17,27/08/14 11:34,23,Male,United Kingdom,NA,NA,No,Yes,Sometimes,26-100,Yes,Yes,Don't know,No
+18,27/08/14 11:34,32,Male,United States,TN,NA,No,Yes,Sometimes,Jun-25,No,Yes,Yes,Yes
+19,27/08/14 11:34,46,male,United States,MD,Yes,Yes,No,Sometimes,1-May,Yes,Yes,Yes,Not sure
+20,27/08/14 11:35,36,Male,France,NA,Yes,Yes,No,NA,Jun-25,Yes,Yes,No,No
+21,27/08/14 11:35,29,Male,United States,NY,No,Yes,Yes,Sometimes,100-500,No,Yes,Yes,Yes
+22,27/08/14 11:35,31,male,United States,NC,Yes,No,No,Never,1-May,Yes,Yes,No,No
+23,27/08/14 11:35,46,Male,United States,MA,No,No,Yes,Often,26-100,Yes,Yes,Yes,Yes
+24,27/08/14 11:36,41,Male,United States,IA,No,No,Yes,Never,More than 1000,No,No,Don't know,No
+25,27/08/14 11:36,33,male,United States,CA,No,Yes,Yes,Rarely,26-100,No,Yes,Yes,Not sure
+26,27/08/14 11:37,35,male,United States,TN,No,Yes,Yes,Sometimes,More than 1000,No,No,Yes,Yes
+27,27/08/14 11:37,33,male,United States,TN,No,No,No,NA,1-May,No,Yes,Don't know,Not sure
+28,27/08/14 11:37,35,Female,United States,CA,No,Yes,Yes,Rarely,Jun-25,Yes,Yes,Yes,Yes
+29,27/08/14 11:38,34,male,United States,OH,No,No,Yes,Sometimes,26-100,Yes,Yes,Don't know,Not sure
+30,27/08/14 11:38,37,Male,United Kingdom,NA,No,No,No,Sometimes,Jun-25,No,Yes,No,No
+31,27/08/14 11:39,32,Male,United Kingdom,NA,No,No,No,Never,Jun-25,Yes,Yes,No,No
+32,27/08/14 11:38,31,Male,United States,PA,Yes,Yes,No,Rarely,1-May,Yes,Yes,No,Yes
+33,27/08/14 11:39,30,male,United Kingdom,NA,No,Yes,Yes,Sometimes,500-1000,Yes,Yes,Don't know,No
+34,27/08/14 11:39,42,Male,United States,WA,No,Yes,Yes,Sometimes,26-100,Yes,Yes,Yes,Yes
+35,27/08/14 11:40,40,female,United States,WI,No,No,Yes,Sometimes,1-May,No,Yes,Yes,Yes
+36,27/08/14 11:41,27,Male,United States,NY,No,No,Yes,Rarely,Jun-25,No,Yes,No,Yes
+37,27/08/14 11:41,29,Male,Canada,NA,No,No,No,Rarely,1-May,No,Yes,No,No
+38,27/08/14 11:41,38,Male,Portugal,NA,No,No,No,NA,100-500,No,Yes,No,Yes
+39,27/08/14 11:42,50,M,United States,IN,No,No,No,NA,100-500,No,Yes,Yes,Yes
+40,27/08/14 11:42,35,M,United States,TX,No,No,Yes,Rarely,More than 1000,Yes,Yes,Yes,Yes
+41,27/08/14 11:42,24,Male,United Kingdom,NA,No,No,Yes,Sometimes,Jun-25,No,Yes,No,No
+42,27/08/14 11:42,35,Male,United States,MI,No,No,No,NA,More than 1000,Yes,Yes,Yes,Not sure
+43,27/08/14 11:43,27,Male,Canada,NA,No,Yes,Yes,Sometimes,1-May,No,Yes,No,Yes
+44,27/08/14 11:43,18,Male,Netherlands,NA,No,No,No,Often,Jun-25,No,Yes,No,Not sure
+45,27/08/14 11:43,30,Male,United States,IN,No,No,Yes,Sometimes,26-100,No,Yes,Don't know,No
+46,27/08/14 11:43,38,Female,United States,TX,No,Yes,Yes,Sometimes,26-100,No,Yes,Yes,Yes
+47,27/08/14 11:43,28,Male,United Kingdom,NA,No,No,No,NA,26-100,No,Yes,Don't know,Not sure
+48,27/08/14 11:43,34,Male,United States,TN,No,No,No,NA,Jun-25,No,Yes,No,No
+49,27/08/14 11:43,26,m,Canada,NA,Yes,No,No,Sometimes,1-May,No,Yes,No,Yes
+50,27/08/14 11:44,30,male,United States,IL,No,Yes,Yes,Rarely,26-100,No,Yes,Yes,No
+51,27/08/14 11:44,22,M,United States,TX,No,Yes,Yes,Often,Jun-25,No,Yes,No,Yes
+52,27/08/14 11:45,33,Male,United States,UT,No,No,No,NA,100-500,Yes,Yes,Don't know,Not sure
+53,27/08/14 11:45,31,M,United States,NA,No,No,No,NA,100-500,Yes,Yes,Don't know,No
+54,27/08/14 11:45,32,Male,United States,TN,No,No,No,Never,1-May,Yes,Yes,Don't know,Not sure
+55,27/08/14 11:46,28,M,Switzerland,NA,No,No,No,NA,100-500,No,Yes,No,No
+56,27/08/14 11:46,27,Male-ish,United States,NY,No,Yes,Yes,Rarely,26-100,No,Yes,Yes,Yes
+57,27/08/14 11:46,32,maile,United States,TN,No,Yes,No,NA,Jun-25,Yes,Yes,Don't know,No
+58,27/08/14 11:47,24,Male,United States,NY,No,Yes,Yes,Sometimes,26-100,Yes,Yes,Don't know,No
+59,27/08/14 11:47,26,Male,United States,TN,No,No,No,NA,26-100,No,No,No,No
+60,27/08/14 11:47,33,male,Canada,NA,No,Yes,Yes,Often,Jun-25,Yes,Yes,Don't know,No
+61,27/08/14 11:48,44,Male,United States,IA,No,Yes,Yes,Sometimes,More than 1000,No,No,Yes,No
+62,27/08/14 11:49,26,Female,Poland,NA,No,No,Yes,Sometimes,26-100,Yes,Yes,Don't know,Not sure
+63,27/08/14 11:50,27,Male,United Kingdom,NA,No,No,No,Never,100-500,No,Yes,Yes,Not sure
+64,27/08/14 11:50,26,Male,France,NA,No,No,No,NA,26-100,No,Yes,No,No
+65,27/08/14 11:50,35,male,Canada,NA,No,No,No,Sometimes,Jun-25,No,Yes,Don't know,No
+66,27/08/14 11:51,40,Male,United States,CA,No,Yes,No,Sometimes,More than 1000,Yes,Yes,Yes,Yes
+67,27/08/14 11:51,23,Female,Australia,NA,No,Yes,Yes,Often,1-May,Yes,Yes,No,Not sure
+68,27/08/14 11:52,36,M,United States,TX,No,No,No,Sometimes,100-500,Yes,Yes,Yes,No
+69,27/08/14 11:52,31,Female,United States,NM,No,No,No,NA,26-100,Yes,No,Don't know,No
+70,27/08/14 11:52,34,Male,United States,NY,Yes,No,No,Rarely,1-May,Yes,Yes,No,No
+71,27/08/14 11:53,28,m,France,NA,No,No,No,Never,26-100,No,Yes,No,No
+72,27/08/14 11:53,34,male,Canada,NA,No,No,No,Never,Jun-25,No,Yes,Don't know,Not sure
+73,27/08/14 11:54,23,Trans-female,United States,MA,No,No,No,Rarely,More than 1000,No,Yes,Yes,Yes
+74,27/08/14 11:56,38,Male,United Kingdom,NA,No,No,No,NA,26-100,No,Yes,No,No
+75,27/08/14 11:56,33,Male,United States,CA,No,No,No,Never,More than 1000,No,Yes,Don't know,Not sure
+76,27/08/14 11:57,19,Male,United Kingdom,NA,No,No,No,NA,1-May,No,Yes,No,Yes
+77,27/08/14 11:57,25,Male,United States,WA,No,No,No,NA,More than 1000,Yes,Yes,Yes,Yes
+78,27/08/14 11:57,31,Male,United States,WA,Yes,Yes,No,Sometimes,1-May,Yes,Yes,No,No
+79,27/08/14 11:59,32,Male,United States,UT,No,Yes,Yes,Sometimes,26-100,Yes,Yes,No,No
+80,27/08/14 12:00,28,m,Germany,NA,No,No,No,Never,Jun-25,Yes,Yes,Don't know,No
+81,27/08/14 12:01,38,Male,United States,NY,No,Yes,No,Sometimes,100-500,Yes,Yes,Yes,Yes
+82,27/08/14 12:02,23,Male,United Kingdom,NA,No,No,No,Never,26-100,No,Yes,Yes,Not sure
+83,27/08/14 12:02,30,male,Canada,NA,No,No,No,Never,26-100,No,No,No,No
+84,27/08/14 12:03,27,Cis Female,United States,NY,Yes,No,Yes,Often,1-May,Yes,Yes,Yes,Yes
+85,27/08/14 12:05,33,Male,United States,CA,No,Yes,No,Never,More than 1000,No,Yes,No,No
+86,27/08/14 12:05,31,Male,United States,TX,No,No,No,NA,26-100,No,Yes,Don't know,Not sure
+87,27/08/14 12:07,39,Male,United Kingdom,NA,Yes,No,Yes,Often,Jun-25,No,Yes,No,No
+88,27/08/14 12:10,34,female,United States,OR,No,Yes,Yes,Rarely,500-1000,Yes,Yes,Yes,Not sure
+89,27/08/14 12:11,29,F,United States,FL,No,No,Yes,Sometimes,26-100,No,Yes,Yes,Yes
+90,27/08/14 12:11,32,M,United States,IL,No,No,No,NA,500-1000,No,Yes,Don't know,No
+91,27/08/14 12:12,31,Male,United States,NY,No,No,No,Never,500-1000,No,Yes,Yes,Yes
+92,27/08/14 12:13,40,male,United States,TX,No,No,Yes,Sometimes,26-100,No,Yes,No,Yes
+93,27/08/14 12:14,34,Male,United States,OH,No,No,No,NA,26-100,No,Yes,Don't know,No
+94,27/08/14 12:15,18,something kinda male?,Russia,NA,No,No,No,NA,26-100,Yes,Yes,Yes,Yes
+95,27/08/14 12:15,25,F,Canada,NA,No,No,Yes,Sometimes,26-100,No,Yes,Yes,Yes
+96,27/08/14 12:15,29,male,United States,MN,No,No,No,Never,26-100,No,Yes,Don't know,No
+97,27/08/14 12:16,24,Male,United States,MO,No,Yes,No,Rarely,26-100,No,Yes,Don't know,Not sure
+98,27/08/14 12:17,31,male,Mexico,NA,No,Yes,Yes,Sometimes,Jun-25,No,Yes,Don't know,No
+99,27/08/14 12:18,33,Cis Male,United States,AZ,No,No,Yes,Sometimes,Jun-25,No,Yes,No,Yes
+100,27/08/14 12:18,30,M,United States,IN,No,No,Yes,Often,1-May,No,Yes,No,Yes
+101,27/08/14 12:18,26,female,Canada,NA,No,Yes,Yes,Sometimes,26-100,No,No,No,Yes
+102,27/08/14 12:18,44,Female,United States,MA,No,No,No,Never,100-500,No,Yes,Yes,Not sure
+103,27/08/14 12:19,25,Male,United States,NY,No,Yes,No,NA,26-100,No,Yes,Don't know,No
+104,27/08/14 12:20,33,Male,United States,WI,No,Yes,Yes,Sometimes,26-100,Yes,Yes,Yes,Yes
+105,27/08/14 12:22,29,Male,United States,NY,No,No,No,Never,More than 1000,No,Yes,Yes,Not sure
+106,27/08/14 12:23,35,Male,United States,MO,No,Yes,No,Rarely,Jun-25,No,Yes,Yes,Not sure
+107,27/08/14 12:23,35,M,United States,OR,No,Yes,Yes,Sometimes,26-100,Yes,Yes,Don't know,Not sure
+108,27/08/14 12:25,28,Male,Brazil,NA,No,Yes,Yes,Rarely,Jun-25,No,Yes,No,No
+109,27/08/14 12:28,34,m,United States,TN,No,Yes,No,Never,Jun-25,Yes,Yes,Yes,No
+110,27/08/14 12:28,32,Male,United States,WA,No,No,Yes,Sometimes,26-100,No,Yes,Yes,No
+111,27/08/14 12:29,22,Male,United States,NY,No,No,Yes,Sometimes,500-1000,No,Yes,Yes,Yes
+112,27/08/14 12:31,28,Male,United States,CA,No,No,Yes,Sometimes,26-100,No,Yes,Yes,Yes
+113,27/08/14 12:31,45,male,United States,MO,No,Yes,Yes,Rarely,Jun-25,Yes,Yes,Yes,Yes
+114,27/08/14 12:31,32,Male,United States,NY,No,No,No,Never,100-500,No,Yes,Yes,Yes
+115,27/08/14 12:31,28,male,United States,TX,No,No,No,NA,More than 1000,No,Yes,Don't know,No
+116,27/08/14 12:31,26,Male,United Kingdom,NA,No,No,No,Never,Jun-25,No,Yes,Don't know,No
+117,27/08/14 12:31,21,Male,United Kingdom,NA,Yes,No,No,Often,1-May,Yes,No,No,Yes
+118,27/08/14 12:31,27,Male,Canada,NA,No,No,No,Rarely,Jun-25,No,No,Yes,Yes
+119,27/08/14 12:31,18,Male,United States,CT,No,No,Yes,Rarely,1-May,Yes,Yes,No,No
+120,27/08/14 12:32,35,Male,United States,CO,No,No,No,NA,26-100,Yes,Yes,Don't know,Not sure
+121,27/08/14 12:32,29,Male,United States,GA,No,No,No,Never,More than 1000,No,Yes,Yes,Yes
+122,27/08/14 12:33,25,Male,United States,DC,No,No,No,NA,26-100,Yes,Yes,Don't know,No
+123,27/08/14 12:33,33,Male,United States,MN,No,Yes,Yes,Sometimes,Jun-25,Yes,Yes,Don't know,No
+124,27/08/14 12:33,36,Male,United States,WA,No,No,No,Often,Jun-25,No,Yes,Yes,No
+125,27/08/14 12:33,27,Male,Canada,NA,No,No,Yes,Never,100-500,No,No,Yes,Not sure
+126,27/08/14 12:34,27,Male,United States,WA,No,Yes,No,Never,500-1000,No,Yes,Yes,No
+127,27/08/14 12:34,27,Male,United Kingdom,NA,No,No,No,NA,Jun-25,No,Yes,No,No
+128,27/08/14 12:34,32,M,United States,OR,No,No,Yes,Rarely,100-500,No,Yes,Yes,Yes
+129,27/08/14 12:34,31,Male,United Kingdom,NA,No,Yes,No,Sometimes,Jun-25,No,Yes,No,No
+130,27/08/14 12:34,19,male,Slovenia,NA,No,No,Yes,Sometimes,Jun-25,No,Yes,Don't know,No
+131,27/08/14 12:34,33,Male,United States,IL,No,Yes,Yes,Sometimes,More than 1000,No,Yes,Yes,Yes
+132,27/08/14 12:35,32,male,United States,CA,No,No,No,Rarely,1-May,Yes,Yes,No,Yes
+133,27/08/14 12:36,27,Male,United States,NE,No,No,No,Never,26-100,No,Yes,Don't know,Not sure
+134,27/08/14 12:36,38,Male,Costa Rica,NA,No,No,No,NA,26-100,Yes,Yes,No,Yes
+135,27/08/14 12:36,24,Male,Canada,NA,No,No,Yes,Never,26-100,No,Yes,Don't know,No
+136,27/08/14 12:37,39,M,United Kingdom,NA,No,No,No,Never,26-100,No,No,No,No
+137,27/08/14 12:37,28,Male,United Kingdom,NA,No,No,No,Never,Jun-25,No,Yes,Don't know,No
+138,27/08/14 12:37,39,Male,United States,IA,No,No,Yes,Often,More than 1000,No,Yes,Yes,Not sure
+139,27/08/14 12:37,29,Female,United States,MD,No,No,No,NA,Jun-25,No,Yes,Don't know,No
+140,27/08/14 12:37,22,m,Austria,NA,No,No,No,NA,Jun-25,Yes,Yes,Don't know,No
+141,27/08/14 12:38,38,Male,United States,OR,No,Yes,Yes,Sometimes,100-500,No,Yes,Don't know,No
+142,27/08/14 12:38,37,Male,United Kingdom,NA,Yes,No,Yes,Sometimes,More than 1000,No,No,No,Yes
+143,27/08/14 12:38,35,M,United States,TX,No,No,No,Never,26-100,Yes,No,Don't know,Not sure
+144,27/08/14 12:39,-29,Male,United States,MN,No,No,No,NA,More than 1000,Yes,No,Yes,No
+145,27/08/14 12:39,30,Female,United States,PA,No,Yes,No,NA,More than 1000,Yes,Yes,Don't know,Not sure
+146,27/08/14 12:39,37,Male,United States,IN,No,Yes,Yes,Rarely,100-500,No,No,Yes,Yes
+147,27/08/14 12:39,24,M,United Kingdom,NA,No,No,No,Never,Jun-25,No,Yes,No,No
+148,27/08/14 12:39,23,Male,United States,WV,No,No,No,Sometimes,Jun-25,No,No,No,No
+149,27/08/14 12:40,30,male,Ireland,NA,No,No,Yes,Rarely,100-500,No,Yes,No,Yes
+150,27/08/14 12:40,29,Female,United States,MI,No,No,No,NA,100-500,Yes,Yes,Don't know,Not sure
+151,27/08/14 12:40,19,Male,Canada,NA,Yes,Yes,No,NA,1-May,Yes,Yes,Don't know,Not sure
+152,27/08/14 12:40,32,male,United States,CA,No,Yes,No,Never,26-100,No,Yes,Don't know,Not sure
+153,27/08/14 12:41,28,male,Poland,NA,No,No,No,Rarely,Jun-25,Yes,Yes,No,No
+154,27/08/14 12:41,36,Male,United States,IL,No,No,No,Never,Jun-25,No,Yes,Don't know,Not sure
+155,27/08/14 12:41,37,Male,United Kingdom,NA,No,Yes,Yes,Rarely,More than 1000,No,No,Yes,Yes
+156,27/08/14 12:42,25,Male,United States,IL,No,Yes,Yes,Sometimes,26-100,No,No,Don't know,No
+157,27/08/14 12:42,27,Male,United States,CA,No,Yes,Yes,Sometimes,More than 1000,No,Yes,Don't know,No
+158,27/08/14 12:43,26,male,United States,OK,No,No,No,Often,26-100,No,No,Don't know,Not sure
+159,27/08/14 12:43,27,male,United States,UT,No,No,Yes,Rarely,26-100,Yes,Yes,No,Yes
+160,27/08/14 12:43,25,Male,United States,IL,No,Yes,Yes,Sometimes,26-100,No,Yes,Don't know,Not sure
+161,27/08/14 12:43,36,Male,United Kingdom,NA,No,No,Yes,Sometimes,More than 1000,No,No,Yes,Yes
+162,27/08/14 12:44,25,F,United States,NY,No,Yes,Yes,Sometimes,500-1000,No,Yes,Yes,No
+163,27/08/14 12:44,31,M,United States,CA,No,No,No,Never,More than 1000,No,Yes,Yes,No
+164,27/08/14 12:45,26,male,United States,MA,No,Yes,No,Rarely,Jun-25,No,Yes,Don't know,No
+165,27/08/14 12:46,33,F,United States,WA,Yes,Yes,Yes,Sometimes,1-May,No,Yes,No,Yes
+166,27/08/14 12:47,27,Woman,United Kingdom,NA,Yes,Yes,No,NA,1-May,Yes,Yes,No,Yes
+167,27/08/14 12:48,34,Male,United States,MN,No,No,No,Never,26-100,No,Yes,No,No
+168,27/08/14 12:48,42,male,United States,CA,No,No,No,NA,Jun-25,No,Yes,No,Yes
+169,27/08/14 12:48,23,male,Ireland,NA,Yes,Yes,No,Sometimes,1-May,No,Yes,No,No
+170,27/08/14 12:48,24,Male,United Kingdom,NA,No,No,No,Rarely,100-500,No,Yes,Don't know,Not sure
+171,27/08/14 12:48,26,Male,United Kingdom,NA,No,No,Yes,Sometimes,More than 1000,No,Yes,Yes,Yes
+172,27/08/14 12:48,31,Male,United Kingdom,NA,Yes,No,Yes,Often,Jun-25,No,Yes,Don't know,No
+173,27/08/14 12:49,22,M,India,NA,No,No,Yes,Never,More than 1000,No,Yes,Don't know,Not sure
+174,27/08/14 12:49,23,Female,United States,NC,No,No,No,NA,Jun-25,No,Yes,Don't know,No
+175,27/08/14 12:49,34,Female,Canada,NA,No,Yes,Yes,Sometimes,More than 1000,No,No,Yes,Yes
+176,27/08/14 12:49,31,male,United States,MO,No,No,No,Never,26-100,No,Yes,Don't know,Not sure
+177,27/08/14 12:50,28,Male,United Kingdom,NA,No,No,No,NA,100-500,No,No,No,Not sure
+178,27/08/14 12:50,32,Female,United States,MA,No,No,Yes,Often,Jun-25,Yes,Yes,Yes,Not sure
+179,27/08/14 12:51,45,F,United States,CA,No,No,Yes,Sometimes,1-May,No,Yes,Yes,No
+180,27/08/14 12:51,33,Male,United States,TX,No,No,No,NA,Jun-25,Yes,Yes,Don't know,No
+181,27/08/14 12:51,29,male,Mexico,NA,No,No,No,Never,Jun-25,Yes,Yes,No,No
+182,27/08/14 12:51,26,f,India,NA,Yes,No,No,Sometimes,Jun-25,No,No,No,No
+183,27/08/14 12:51,28,Female,United Kingdom,NA,No,No,No,Never,26-100,No,Yes,Don't know,No
+184,27/08/14 12:51,45,M,United States,CA,No,No,Yes,Sometimes,More than 1000,No,Yes,Don't know,Not sure
+185,27/08/14 12:52,43,Male,United States,WA,No,Yes,Yes,Often,More than 1000,Yes,Yes,Yes,Not sure
+186,27/08/14 12:52,37,male,United States,MA,No,No,No,NA,500-1000,Yes,Yes,Yes,No
+187,27/08/14 12:52,24,Male,United Kingdom,NA,No,No,No,Sometimes,Jun-25,No,Yes,Don't know,No
+188,27/08/14 12:53,26,Male,France,NA,No,No,No,NA,Jun-25,Yes,Yes,No,Yes
+189,27/08/14 12:53,23,male,United Kingdom,NA,No,Yes,No,NA,1-May,Yes,Yes,Don't know,No
+190,27/08/14 12:53,35,Female,United States,CA,No,Yes,Yes,Never,More than 1000,No,Yes,Yes,Not sure
+191,27/08/14 12:53,38,Female,South Africa,NA,Yes,Yes,Yes,Often,1-May,Yes,Yes,No,Yes
+192,27/08/14 12:53,28,Male,United States,MI,No,Yes,Yes,Sometimes,26-100,No,Yes,Yes,No
+193,27/08/14 12:54,28,Male,Russia,NA,No,No,No,Sometimes,26-100,No,Yes,No,No
+194,27/08/14 12:54,35,Male,United States,CA,No,No,Yes,Rarely,Jun-25,No,Yes,No,No
+195,27/08/14 12:54,32,female,Germany,NA,No,No,No,Sometimes,100-500,No,Yes,No,No
+196,27/08/14 12:54,31,Mal,Italy,NA,Yes,Yes,No,Never,Jun-25,No,Yes,No,No
+197,27/08/14 12:55,35,Female,United States,NY,No,No,No,Never,500-1000,Yes,Yes,Don't know,Not sure
+198,27/08/14 12:55,26,Male,United States,CA,No,No,No,Rarely,More than 1000,No,Yes,Yes,No
+199,27/08/14 12:56,27,Male,United States,TN,No,Yes,No,NA,Jun-25,Yes,Yes,Yes,Yes
+200,27/08/14 12:56,28,Male,United Kingdom,NA,No,Yes,Yes,Sometimes,More than 1000,No,Yes,Don't know,No
+201,27/08/14 12:57,27,Female,United States,OR,No,Yes,Yes,Sometimes,26-100,No,Yes,Yes,No
+202,27/08/14 12:57,34,female,United States,MN,No,No,Yes,Sometimes,500-1000,No,No,Yes,Yes
+203,27/08/14 12:58,41,male,United States,FL,No,No,Yes,Often,Jun-25,Yes,Yes,No,Not sure
+204,27/08/14 12:58,37,Male,Ireland,NA,No,No,No,Sometimes,1-May,No,Yes,No,Yes
+205,27/08/14 13:00,34,male,Austria,NA,No,Yes,No,NA,100-500,Yes,Yes,Don't know,No
+206,27/08/14 13:02,32,Male,United Kingdom,NA,No,Yes,Yes,Sometimes,100-500,Yes,Yes,Don't know,Not sure
+207,27/08/14 13:03,21,Male,Canada,NA,No,No,Yes,Sometimes,Jun-25,Yes,Yes,No,Yes
+208,27/08/14 13:04,30,M,United States,MA,No,No,Yes,Often,26-100,No,Yes,No,Yes
+209,27/08/14 13:04,24,male,United States,KS,No,No,No,Never,26-100,No,Yes,Don't know,Not sure
+210,27/08/14 13:05,26,male,Bulgaria,NA,No,No,No,NA,100-500,No,Yes,No,No
+211,27/08/14 13:06,40,Female,United States,DC,No,No,No,NA,26-100,No,Yes,Yes,Yes
+212,27/08/14 13:06,37,Male,United Kingdom,NA,No,Yes,No,Sometimes,26-100,No,No,No,No
+213,27/08/14 13:07,26,Male,United Kingdom,NA,Yes,No,Yes,Often,1-May,Yes,Yes,No,No
+214,27/08/14 13:07,32,F,United States,TX,No,Yes,Yes,Sometimes,Jun-25,No,Yes,Don't know,No
+215,27/08/14 13:07,32,f,United States,MA,No,No,Yes,Sometimes,100-500,No,No,Yes,Yes
+216,27/08/14 13:07,27,female,United States,MI,Yes,Yes,Yes,Sometimes,1-May,Yes,Yes,No,No
+217,27/08/14 13:08,30,Male,Germany,NA,Yes,No,Yes,Often,Jun-25,Yes,Yes,Yes,Yes
+218,27/08/14 13:09,31,M,Canada,NA,Yes,No,No,NA,Jun-25,No,Yes,Yes,Yes
+219,27/08/14 13:09,29,F,United States,NY,No,No,Yes,Never,500-1000,No,No,Yes,No
+220,27/08/14 13:09,41,Male (CIS),United States,VA,No,No,No,NA,26-100,No,Yes,Yes,Not sure
+221,27/08/14 13:12,34,female,United States,WA,No,No,No,NA,Jun-25,No,Yes,Yes,No
+222,27/08/14 13:12,33,Male,United Kingdom,NA,No,No,No,NA,26-100,No,Yes,Don't know,No
+223,27/08/14 13:14,28,male,United States,PA,No,No,No,Rarely,Jun-25,No,Yes,Don't know,No
+224,27/08/14 13:15,28,Male,United States,MI,No,No,Yes,Sometimes,More than 1000,No,Yes,No,Yes
+225,27/08/14 13:15,23,Male,United States,PA,No,No,No,Never,26-100,No,Yes,Don't know,Not sure
+226,27/08/14 13:18,24,M,United States,OR,No,No,No,NA,1-May,No,Yes,Don't know,No
+227,27/08/14 13:18,32,male,United States,WA,No,No,No,Rarely,1-May,Yes,Yes,No,Yes
+228,27/08/14 13:19,34,Male,Australia,NA,Yes,No,No,Sometimes,1-May,Yes,Yes,Don't know,Not sure
+229,27/08/14 13:21,24,Male,United States,PA,No,No,No,Never,Jun-25,No,Yes,Yes,Not sure
+230,27/08/14 13:22,26,male,United Kingdom,NA,Yes,No,Yes,Sometimes,1-May,No,Yes,No,Yes
+231,27/08/14 13:22,36,Male,United States,OH,No,No,Yes,Sometimes,26-100,No,Yes,Yes,No
+232,27/08/14 13:23,41,Male,United States,TX,No,No,Yes,Rarely,500-1000,Yes,Yes,Yes,Yes
+233,27/08/14 13:24,38,Male,United Kingdom,NA,No,No,Yes,Sometimes,More than 1000,No,No,Don't know,Not sure
+234,27/08/14 13:24,38,Male,United States,NH,No,No,No,Sometimes,26-100,Yes,Yes,Don't know,Not sure
+235,27/08/14 13:26,30,male,Netherlands,NA,No,No,No,NA,26-100,No,Yes,Don't know,No
+236,27/08/14 13:26,25,Male,United Kingdom,NA,No,No,No,Never,26-100,No,Yes,No,No
+237,27/08/14 13:27,37,Male,Canada,NA,No,Yes,Yes,Often,26-100,No,Yes,Yes,Yes
+238,27/08/14 13:29,34,Male,United Kingdom,NA,No,Yes,No,NA,Jun-25,No,Yes,No,No
+239,27/08/14 13:29,37,F,United States,NC,No,Yes,Yes,Sometimes,More than 1000,No,No,Yes,Yes
+240,27/08/14 13:31,28,Female,Canada,NA,No,Yes,Yes,Sometimes,Jun-25,No,No,Yes,Yes
+241,27/08/14 13:31,22,Male,Sweden,NA,No,No,No,NA,Jun-25,No,Yes,Don't know,No
+242,27/08/14 13:32,34,male,United States,FL,No,Yes,Yes,Sometimes,1-May,No,Yes,No,No
+243,27/08/14 13:32,33,M,United States,CA,No,Yes,Yes,Sometimes,26-100,No,Yes,Yes,Yes
+244,27/08/14 13:33,25,Male,South Africa,NA,No,No,No,NA,Jun-25,No,Yes,No,No
+245,27/08/14 13:34,27,Male,United States,GA,No,No,No,Never,More than 1000,Yes,Yes,Yes,Yes
+246,27/08/14 13:35,40,M,United States,OH,No,No,Yes,Sometimes,More than 1000,Yes,Yes,Yes,Yes
+247,27/08/14 13:35,21,Male,United States,KY,No,No,Yes,Often,Jun-25,No,No,Don't know,No
+248,27/08/14 13:37,29,Male,United Kingdom,NA,No,No,No,NA,Jun-25,No,No,No,No
+249,27/08/14 13:37,32,M,United States,NC,No,Yes,Yes,Sometimes,1-May,Yes,Yes,No,No
+250,27/08/14 13:38,29,f,United States,NY,No,Yes,Yes,Rarely,500-1000,Yes,No,Yes,Yes
+251,27/08/14 13:39,23,Male,United States,AL,No,Yes,Yes,Sometimes,26-100,Yes,No,Don't know,No
+252,27/08/14 13:40,28,Male,United States,GA,No,Yes,No,NA,100-500,No,Yes,Yes,No
+253,27/08/14 13:42,31,male,United States,CA,No,Yes,Yes,Rarely,100-500,Yes,Yes,Yes,Yes
+254,27/08/14 13:44,27,Male,United Kingdom,NA,No,No,No,NA,100-500,No,No,Don't know,Not sure
+255,27/08/14 13:44,24,Male,United States,VA,No,No,No,Sometimes,Jun-25,No,Yes,Don't know,No
+256,27/08/14 13:46,29,Male,Canada,NA,No,No,No,Often,Jun-25,No,Yes,No,No
+257,27/08/14 13:47,23,Female,United Kingdom,NA,No,No,Yes,Sometimes,Jun-25,No,Yes,Don't know,Not sure
+258,27/08/14 13:47,42,Male,United States,WA,No,No,No,Never,Jun-25,Yes,Yes,No,Yes
+259,27/08/14 13:48,24,Male,United Kingdom,NA,No,No,No,NA,1-May,No,Yes,No,No
+260,27/08/14 13:49,25,Male,Australia,NA,No,Yes,Yes,Often,Jun-25,No,Yes,No,Yes
+261,27/08/14 13:49,27,Female,United States,TX,No,No,Yes,Rarely,Jun-25,No,Yes,Yes,No
+262,27/08/14 13:52,27,Male,Canada,NA,No,No,No,Sometimes,Jun-25,Yes,Yes,No,Yes
+263,27/08/14 13:52,30,Male,United States,FL,No,No,Yes,Sometimes,100-500,Yes,Yes,Yes,Yes
+264,27/08/14 13:53,29,male,Poland,NA,No,Yes,Yes,Rarely,Jun-25,No,Yes,No,Yes
+265,27/08/14 13:53,43,Male,Canada,NA,Yes,No,No,NA,Jun-25,Yes,Yes,No,Not sure
+266,27/08/14 13:53,32,male,United States,NV,No,No,No,NA,Jun-25,No,Yes,No,Yes
+267,27/08/14 13:54,41,Male,United States,AL,No,No,Yes,Sometimes,26-100,Yes,Yes,Yes,Yes
+268,27/08/14 13:54,32,Male,United Kingdom,NA,Yes,Yes,Yes,Sometimes,1-May,Yes,Yes,Don't know,Not sure
+269,27/08/14 13:55,37,Female,United States,CA,No,Yes,Yes,Often,26-100,No,Yes,Yes,Yes
+270,27/08/14 13:55,32,Male,United States,CO,No,No,No,Never,Jun-25,Yes,Yes,No,No
+271,27/08/14 13:55,30,Male,Ireland,NA,Yes,No,No,Sometimes,1-May,Yes,Yes,No,No
+272,27/08/14 13:56,23,female,United States,MN,No,Yes,Yes,Never,100-500,No,No,Yes,No
+273,27/08/14 13:56,30,Male,United States,NJ,No,No,No,NA,More than 1000,No,Yes,Yes,Yes
+274,27/08/14 13:59,34,male,United Kingdom,NA,No,No,No,Sometimes,26-100,No,Yes,No,Yes
+275,27/08/14 13:59,38,Male,United States,PA,No,No,Yes,Rarely,26-100,Yes,Yes,Yes,No
+276,27/08/14 14:01,33,Male,Canada,NA,No,No,No,NA,100-500,No,Yes,Yes,No
+277,27/08/14 14:01,34,male,United States,MO,No,No,No,NA,26-100,No,No,Yes,No
+278,27/08/14 14:01,28,male,Colombia,NA,No,No,No,Sometimes,Jun-25,No,Yes,No,Yes
+279,27/08/14 14:03,28,male,United States,MN,No,No,Yes,Rarely,100-500,No,No,Yes,Yes
+280,27/08/14 14:03,23,Male,United States,PA,No,Yes,No,Sometimes,100-500,No,Yes,Don't know,No
+281,27/08/14 14:03,22,Male,Australia,NA,Yes,Yes,Yes,Sometimes,Jun-25,Yes,Yes,Don't know,Not sure
+282,27/08/14 14:06,27,male,Portugal,NA,No,No,No,Never,Jun-25,No,Yes,No,No
+283,27/08/14 14:10,18,male,United States,TX,No,No,Yes,Sometimes,Jun-25,No,Yes,Don't know,No
+284,27/08/14 14:10,35,male,United States,NY,No,Yes,Yes,Sometimes,26-100,No,Yes,Yes,Yes
+285,27/08/14 14:10,25,Male,Canada,NA,No,No,No,NA,100-500,No,No,Don't know,Not sure
+286,27/08/14 14:11,27,Male,United Kingdom,NA,No,Yes,Yes,Sometimes,Jun-25,No,Yes,No,No
+287,27/08/14 14:11,26,Female,United States,WA,No,Yes,Yes,Rarely,More than 1000,No,Yes,Yes,Not sure
+288,27/08/14 14:11,18,Male,United States,WA,No,No,No,Never,26-100,No,Yes,Don't know,Not sure
+289,27/08/14 14:13,38,Female,United States,TX,No,No,Yes,Sometimes,1-May,No,Yes,No,Yes
+290,27/08/14 14:13,26,Female,United States,TX,No,Yes,Yes,Rarely,More than 1000,Yes,Yes,Yes,Yes
+291,27/08/14 14:13,30,Male,Switzerland,NA,Yes,No,No,Never,1-May,No,Yes,No,No
+292,27/08/14 14:14,35,male,United States,CA,No,No,No,Never,More than 1000,No,Yes,Don't know,No
+293,27/08/14 14:15,45,male,United States,NY,No,Yes,Yes,Sometimes,More than 1000,No,Yes,Yes,Yes
+294,27/08/14 14:15,32,Male,United States,CA,No,No,No,Never,More than 1000,No,Yes,Yes,No
+295,27/08/14 14:15,56,Male,United States,NA,No,No,Yes,Never,More than 1000,No,Yes,Yes,Not sure
+296,27/08/14 14:16,24,Female,United States,CA,No,No,No,NA,500-1000,No,Yes,Don't know,Not sure
+297,27/08/14 14:18,30,F,United States,SC,No,Yes,Yes,Sometimes,26-100,No,Yes,Yes,Yes
+298,27/08/14 14:18,60,male,United States,CA,No,No,No,NA,More than 1000,No,Yes,Yes,No
+299,27/08/14 14:18,33,Male,United States,CA,No,Yes,Yes,Sometimes,More than 1000,No,Yes,Yes,No
+300,27/08/14 14:19,37,M,United States,NY,No,No,No,Never,More than 1000,No,Yes,Yes,Yes
+301,27/08/14 14:19,23,Female,United States,NY,No,No,Yes,Sometimes,More than 1000,No,Yes,Yes,Yes
+302,27/08/14 14:20,31,f,United States,CA,No,No,Yes,Sometimes,More than 1000,No,Yes,Yes,Not sure
+303,27/08/14 14:20,26,Male,United States,MA,No,No,No,Rarely,100-500,No,Yes,Yes,Not sure
+304,27/08/14 14:21,28,female,United States,WA,No,Yes,Yes,Often,100-500,Yes,No,Yes,Yes
+305,27/08/14 14:21,37,F,United States,CA,No,No,Yes,Rarely,More than 1000,No,Yes,Yes,Yes
+306,27/08/14 14:22,26,male,Canada,NA,No,Yes,Yes,Often,Jun-25,No,Yes,Yes,No
+307,27/08/14 14:22,30,queer/she/they,United States,IL,No,Yes,Yes,Rarely,26-100,No,Yes,Yes,Not sure
+308,27/08/14 14:22,26,M,United States,IN,No,No,No,NA,26-100,No,Yes,No,No
+309,27/08/14 14:22,25,Male,United States,OR,No,No,No,NA,26-100,Yes,Yes,Don't know,Not sure
+310,27/08/14 14:23,27,Male,United States,TN,No,No,No,Sometimes,100-500,No,Yes,Yes,Not sure
+311,27/08/14 14:23,25,Male,Canada,NA,No,No,Yes,Often,Jun-25,Yes,No,Don't know,No
+312,27/08/14 14:24,35,male,United States,OR,No,No,Yes,Rarely,100-500,No,Yes,Yes,Not sure
+313,27/08/14 14:25,36,Male,United States,WA,Yes,No,Yes,Never,1-May,No,Yes,No,Yes
+314,27/08/14 14:25,26,Male,United States,CA,No,Yes,Yes,Sometimes,More than 1000,No,Yes,Yes,Not sure
+315,27/08/14 14:26,27,Male,United States,CA,No,Yes,No,NA,More than 1000,No,Yes,Don't know,No
+316,27/08/14 14:27,30,male,United States,VT,No,No,No,NA,Jun-25,No,No,Don't know,Not sure
+317,27/08/14 14:27,29,M,United States,NY,No,No,No,NA,100-500,No,No,Don't know,Not sure
+318,27/08/14 14:27,25,Male,United States,UT,No,No,No,Never,More than 1000,No,No,Yes,Yes
+319,27/08/14 14:27,22,Female,United States,NY,No,Yes,Yes,Often,More than 1000,No,Yes,Yes,Yes
+320,27/08/14 14:28,29,male,Latvia,NY,No,No,No,NA,26-100,No,Yes,No,Yes
+321,27/08/14 14:28,41,Male,United States,SD,No,Yes,Yes,Rarely,100-500,Yes,Yes,Yes,Yes
+322,27/08/14 14:28,29,Male,United States,CA,No,No,Yes,Sometimes,More than 1000,No,Yes,Yes,No
+323,27/08/14 14:28,32,Male,United States,OR,No,No,No,Never,500-1000,No,Yes,Yes,Not sure
+324,27/08/14 14:28,24,female,United States,CA,No,Yes,Yes,Sometimes,More than 1000,No,Yes,Yes,Yes
+325,27/08/14 14:29,25,Male,United States,CA,No,No,Yes,Rarely,Jun-25,No,Yes,Yes,No
+326,27/08/14 14:30,25,m,United States,CA,No,No,No,NA,More than 1000,No,Yes,Don't know,Not sure
+327,27/08/14 14:31,30,Female,United States,CO,No,No,No,Never,More than 1000,No,Yes,Yes,Yes
+328,27/08/14 14:31,25,Male,United States,CA,No,Yes,Yes,Sometimes,More than 1000,No,Yes,Don't know,Not sure
+329,27/08/14 14:31,30,Male,United States,OH,Yes,No,No,Never,1-May,Yes,Yes,No,Yes
+330,27/08/14 14:32,33,male,Germany,NA,Yes,Yes,Yes,Rarely,1-May,No,No,No,No
+331,27/08/14 14:32,24,Male,United States,WA,No,No,No,NA,26-100,No,Yes,Yes,Not sure
+332,27/08/14 14:33,25,Male,Canada,NA,No,Yes,Yes,Sometimes,More than 1000,No,Yes,Yes,Yes
+333,27/08/14 14:34,31,Male,United States,OH,No,No,No,NA,100-500,No,No,Don't know,No
+334,27/08/14 14:37,45,Male,Ireland,NA,Yes,No,Yes,Often,1-May,No,Yes,No,No
+335,27/08/14 14:37,29,m,Romania,NA,No,No,No,NA,Jun-25,Yes,No,No,Yes
+336,27/08/14 14:37,46,M,United States,WA,No,No,No,Never,26-100,No,Yes,Yes,Not sure
+337,27/08/14 14:38,30,Male,United Kingdom,NA,No,No,Yes,Sometimes,26-100,No,Yes,Don't know,No
+338,27/08/14 14:38,29,F,United States,CA,Yes,No,No,Sometimes,More than 1000,No,Yes,Yes,Not sure
+339,27/08/14 14:38,24,Male,United States,MA,No,No,No,NA,More than 1000,No,Yes,Yes,Yes
+340,27/08/14 14:38,29,male,United States,WA,No,No,No,NA,26-100,No,Yes,Yes,Yes
+341,27/08/14 14:38,35,Male,United States,MI,No,No,No,NA,26-100,No,No,Don't know,Not sure
+342,27/08/14 14:39,33,f,United States,WA,No,Yes,No,Sometimes,26-100,Yes,Yes,No,Yes
+343,27/08/14 14:39,27,Male,United States,CA,No,No,No,Sometimes,More than 1000,No,Yes,Don't know,Not sure
+344,27/08/14 14:41,36,Male,United States,IA,No,No,No,NA,More than 1000,No,Yes,Don't know,Not sure
+345,27/08/14 14:41,33,Male,United Kingdom,NA,No,No,No,Rarely,1-May,Yes,Yes,Don't know,No
+346,27/08/14 14:44,25,F,United States,WA,No,Yes,Yes,Sometimes,26-100,No,Yes,Yes,Yes
+347,27/08/14 14:45,23,Male,United States,AL,No,Yes,Yes,Sometimes,100-500,No,No,Don't know,No
+348,27/08/14 14:45,54,M,United States,CA,No,Yes,Yes,Never,More than 1000,No,Yes,Don't know,No
+349,27/08/14 14:47,22,Male,United States,CA,No,No,No,Sometimes,More than 1000,No,Yes,Don't know,No
+350,27/08/14 14:47,25,non-binary,United States,CA,No,Yes,Yes,Sometimes,More than 1000,No,Yes,Yes,Yes
+351,27/08/14 14:49,29,Male,Belgium,NA,No,No,No,Often,Jun-25,No,No,Don't know,No
+352,27/08/14 14:49,27,Male,United States,MA,No,No,Yes,Sometimes,More than 1000,No,Yes,Yes,Yes
+353,27/08/14 14:51,30,Male,United Kingdom,NA,No,No,No,Never,Jun-25,No,Yes,No,No
+354,27/08/14 14:52,26,male,United States,CA,No,Yes,Yes,Often,More than 1000,No,Yes,Yes,Not sure
+355,27/08/14 14:52,25,Female,Sweden,NA,No,Yes,No,Sometimes,Jun-25,No,Yes,Yes,Yes
+356,27/08/14 14:53,31,Male,United States,CA,No,No,Yes,Sometimes,500-1000,No,No,No,Yes
+357,27/08/14 14:54,33,M,United States,IN,No,Yes,Yes,Sometimes,26-100,No,Yes,Don't know,Not sure
+358,27/08/14 14:54,34,M,United States,WA,No,Yes,Yes,Sometimes,More than 1000,No,Yes,Yes,Yes
+359,27/08/14 14:57,34,Male,United States,WA,No,No,Yes,Sometimes,100-500,Yes,Yes,No,No
+360,27/08/14 14:58,29,M,United States,IN,Yes,No,No,NA,1-May,Yes,Yes,No,Yes
+361,27/08/14 14:59,33,Femake,United States,WA,No,No,No,NA,Jun-25,No,Yes,No,No
+362,27/08/14 15:03,34,male,Germany,NA,Yes,Yes,Yes,Rarely,26-100,Yes,Yes,No,No
+363,27/08/14 15:04,26,male,United States,OK,Yes,Yes,Yes,Rarely,100-500,Yes,No,No,No
+364,27/08/14 15:05,32,Male,United States,MI,No,Yes,Yes,Rarely,More than 1000,No,No,Yes,Yes
+365,27/08/14 15:05,329,Male,United States,OH,No,No,Yes,Often,Jun-25,Yes,Yes,Yes,Yes
+366,27/08/14 15:09,28,Male,United States,GA,No,Yes,Yes,Sometimes,More than 1000,No,Yes,Don't know,Not sure
+367,27/08/14 15:11,35,Male,United States,CA,No,Yes,No,NA,More than 1000,No,Yes,Yes,No
+368,27/08/14 15:13,36,Male,United States,NA,No,Yes,Yes,Often,100-500,No,Yes,No,Yes
+369,27/08/14 15:14,21,Male,United States,IN,No,Yes,Yes,Rarely,100-500,No,Yes,Yes,No
+370,27/08/14 15:15,21,Male,United Kingdom,NA,No,No,Yes,Sometimes,Jun-25,No,No,Don't know,Not sure
+371,27/08/14 15:15,22,F,United States,WA,No,No,No,NA,More than 1000,No,Yes,Yes,No
+372,27/08/14 15:20,41,m,United States,WA,No,Yes,Yes,Often,More than 1000,No,Yes,Yes,No
+373,27/08/14 15:21,55,M,United States,PA,No,Yes,Yes,Rarely,More than 1000,No,Yes,Yes,Yes
+374,27/08/14 15:22,32,F,United States,WA,No,No,Yes,Sometimes,26-100,No,Yes,Yes,Yes
+375,27/08/14 15:22,21,F,United States,CA,No,Yes,Yes,Rarely,26-100,No,Yes,Don't know,Not sure
+376,27/08/14 15:22,45,M,United States,MA,No,No,Yes,Never,26-100,Yes,Yes,Yes,Yes
+377,27/08/14 15:22,27,female,United States,WA,No,No,Yes,Rarely,More than 1000,No,Yes,Yes,Yes
+378,27/08/14 15:22,25,Female,United States,WA,No,Yes,Yes,Sometimes,26-100,Yes,Yes,Don't know,No
+379,27/08/14 15:22,34,woman,United States,NY,No,Yes,Yes,Rarely,More than 1000,No,No,Yes,Yes
+380,27/08/14 15:23,26,F,United States,CA,No,Yes,Yes,Never,More than 1000,No,Yes,Yes,Yes
+381,27/08/14 15:23,41,Male,Canada,NA,No,No,Yes,Never,500-1000,No,Yes,Yes,Not sure
+382,27/08/14 15:23,27,Male,United States,CA,No,No,Yes,Rarely,More than 1000,No,Yes,Yes,No
+383,27/08/14 15:23,31,Make,United States,IN,No,Yes,Yes,Sometimes,26-100,Yes,Yes,Yes,No
+384,27/08/14 15:23,25,Male,Germany,NA,No,Yes,Yes,Often,26-100,Yes,Yes,No,No
+385,27/08/14 15:23,26,M,United States,NV,No,No,Yes,Sometimes,Jun-25,No,Yes,Don't know,No
+386,27/08/14 15:23,27,female,United States,CO,No,Yes,Yes,Rarely,More than 1000,Yes,Yes,Yes,Yes
+387,27/08/14 15:23,42,Male,New Zealand,NA,No,No,No,Never,500-1000,No,Yes,Don't know,Not sure
+388,27/08/14 15:24,29,Nah,United States,CA,Yes,Yes,Yes,Sometimes,1-May,Yes,Yes,Yes,Yes
+389,27/08/14 15:24,25,female,United States,CA,No,No,Yes,Sometimes,Jun-25,No,Yes,Don't know,Not sure
+390,27/08/14 15:24,33,Female,Sweden,NA,No,Yes,Yes,Rarely,More than 1000,No,Yes,Yes,Yes
+391,27/08/14 15:24,99999999999,All,Zimbabwe,NA,Yes,Yes,Yes,Often,1-May,No,Yes,No,Yes
+392,27/08/14 15:24,40,female,United States,PA,No,Yes,Yes,Rarely,More than 1000,No,No,Yes,No
+393,27/08/14 15:24,31,Male,United States,SC,No,No,No,Never,More than 1000,No,Yes,Don't know,No
+394,27/08/14 15:24,26,Male,Canada,NA,No,Yes,Yes,Often,26-100,Yes,Yes,Don't know,No
+395,27/08/14 15:24,24,female,United States,TX,No,Yes,No,NA,500-1000,No,No,No,No
+396,27/08/14 15:25,29,Male,United States,TX,No,No,No,Never,More than 1000,No,No,Yes,Not sure
+397,27/08/14 15:25,48,M,United Kingdom,NA,No,No,No,NA,26-100,No,Yes,Don't know,No
+398,27/08/14 15:25,35,Male,United Kingdom,NA,No,No,No,Sometimes,Jun-25,No,Yes,No,No
+399,27/08/14 15:25,32,female,United States,AL,No,No,No,Never,100-500,No,Yes,Don't know,Not sure
+400,27/08/14 15:25,29,Male,Canada,NA,No,No,Yes,Sometimes,100-500,No,Yes,Don't know,Not sure
+401,27/08/14 15:26,26,Male,United States,OR,No,Yes,Yes,Often,Jun-25,No,Yes,Yes,Yes
+402,27/08/14 15:26,28,Male,United States,NJ,No,Yes,Yes,Sometimes,26-100,No,Yes,Yes,Yes
+403,27/08/14 15:26,23,male,United States,CA,No,No,No,NA,More than 1000,No,Yes,Don't know,No
+404,27/08/14 15:26,35,M,United States,CA,No,Yes,Yes,Sometimes,100-500,No,Yes,Yes,Yes
+405,27/08/14 15:27,29,male,Germany,NA,No,Yes,Yes,Sometimes,26-100,No,Yes,Don't know,No
+406,27/08/14 15:27,26,Male,United States,CA,No,Yes,No,NA,Jun-25,No,Yes,Yes,Yes
+407,27/08/14 15:27,33,Male,United States,NH,No,Yes,Yes,Never,26-100,Yes,Yes,Yes,Yes
+408,27/08/14 15:27,33,Male,United States,CA,No,No,No,NA,More than 1000,Yes,Yes,Don't know,No
+409,27/08/14 15:28,22,Male,Brazil,NA,Yes,No,No,Never,Jun-25,Yes,Yes,Don't know,No
+410,27/08/14 15:28,30,female,Spain,NA,No,Yes,No,NA,500-1000,No,Yes,No,No
+411,27/08/14 15:29,33,male,United States,OH,No,Yes,Yes,Often,More than 1000,Yes,Yes,Yes,Yes
+412,27/08/14 15:29,31,Female,United States,OH,No,Yes,Yes,Rarely,More than 1000,No,No,Don't know,Not sure
+413,27/08/14 15:29,21,male,United States,MA,No,Yes,No,Never,More than 1000,No,Yes,Don't know,Not sure
+414,27/08/14 15:30,31,Enby,United Kingdom,NA,No,Yes,Yes,Sometimes,More than 1000,No,Yes,Don't know,No
+415,27/08/14 15:31,26,F,United States,OK,No,No,Yes,Sometimes,100-500,Yes,Yes,Don't know,Not sure
+416,27/08/14 15:31,30,Male,United States,CA,No,Yes,No,Often,Jun-25,No,Yes,Don't know,No
+417,27/08/14 15:31,30,fluid,Germany,NA,No,Yes,Yes,Sometimes,100-500,No,Yes,Don't know,Not sure
+418,27/08/14 15:31,23,Male,India,NA,No,No,No,NA,Jun-25,No,Yes,No,No
+419,27/08/14 15:31,34,Male,Finland,NA,No,No,No,Never,Jun-25,No,Yes,No,No
+420,27/08/14 15:31,55,M,United States,ID,No,Yes,Yes,Sometimes,1-May,Yes,Yes,No,Yes
+421,27/08/14 15:32,28,male,Germany,NA,No,Yes,Yes,Rarely,1-May,Yes,Yes,Yes,No
+422,27/08/14 15:32,26,M,Uruguay,NA,No,No,No,NA,26-100,Yes,Yes,Don't know,No
+423,27/08/14 15:32,28,Male,New Zealand,NA,No,Yes,Yes,Sometimes,Jun-25,Yes,Yes,Yes,Yes
+424,27/08/14 15:34,32,Male,United Kingdom,NA,No,Yes,Yes,Sometimes,Jun-25,No,Yes,No,No
+425,27/08/14 15:34,28,Female,United States,NY,No,No,Yes,Rarely,More than 1000,No,No,Yes,Yes
+426,27/08/14 15:34,21,M,United States,CA,No,No,No,Sometimes,Jun-25,No,No,Don't know,Not sure
+427,27/08/14 15:35,24,Male,United States,TX,No,Yes,Yes,Sometimes,100-500,No,Yes,No,Yes
+428,27/08/14 15:35,26,Female,United States,MD,No,No,No,NA,More than 1000,No,No,Yes,Not sure
+429,27/08/14 15:35,23,Male,United States,IN,No,No,No,NA,More than 1000,No,No,Yes,No
+430,27/08/14 15:36,24,Female,United States,OR,No,No,No,NA,More than 1000,No,Yes,Yes,Yes
+431,27/08/14 15:36,28,Male,Canada,NA,Yes,No,No,Never,100-500,Yes,Yes,Don't know,No
+432,27/08/14 15:38,24,F,United States,NY,No,Yes,Yes,Rarely,Jun-25,No,Yes,No,No
+433,27/08/14 15:38,33,male,United States,MS,Yes,No,Yes,Often,1-May,Yes,Yes,No,No
+434,27/08/14 15:38,34,male,United States,NJ,No,No,No,Sometimes,26-100,No,Yes,Don't know,No
+435,27/08/14 15:38,27,female,United States,CA,No,No,Yes,Sometimes,26-100,No,Yes,Don't know,Not sure
+436,27/08/14 15:38,28,Male,United States,TN,No,No,No,Never,Jun-25,No,Yes,Don't know,No
+437,27/08/14 15:39,26,Male,United States,WA,No,No,No,NA,More than 1000,No,Yes,Don't know,Not sure
+438,27/08/14 15:40,20,Male,Australia,NA,No,No,No,NA,100-500,Yes,Yes,Don't know,Not sure
+439,27/08/14 15:43,23,female,United States,MA,No,No,Yes,Sometimes,26-100,No,Yes,Yes,Yes
+440,27/08/14 15:43,29,Male,United States,PA,No,Yes,Yes,Rarely,1-May,Yes,Yes,Yes,Yes
+441,27/08/14 15:43,26,Male,United Kingdom,NA,No,Yes,No,Sometimes,Jun-25,No,Yes,No,No
+442,27/08/14 15:43,36,Male,United States,KY,No,No,No,Rarely,More than 1000,Yes,Yes,Yes,No
+443,27/08/14 15:44,41,m,United States,PA,No,No,Yes,Sometimes,More than 1000,No,Yes,Yes,Yes
+444,27/08/14 15:44,33,female,United States,MA,No,No,No,NA,100-500,Yes,Yes,Yes,No
+445,27/08/14 15:46,23,M,Canada,NA,No,Yes,Yes,Sometimes,Jun-25,No,Yes,Yes,Yes
+446,27/08/14 15:46,39,Male,United States,CA,No,Yes,No,Often,More than 1000,No,Yes,Yes,No
+447,27/08/14 15:47,34,M,United States,VT,No,Yes,No,NA,More than 1000,No,Yes,Yes,Not sure
+448,27/08/14 15:47,26,F,United States,CA,No,No,Yes,Sometimes,100-500,No,Yes,Yes,Yes
+449,27/08/14 15:50,24,Male,United States,AZ,No,No,Yes,Rarely,26-100,No,Yes,Yes,Yes
+450,27/08/14 15:51,37,Male,Canada,NA,No,Yes,Yes,Rarely,More than 1000,No,No,Yes,Yes
+451,27/08/14 15:53,43,Male,United States,MA,Yes,Yes,Yes,Often,Jun-25,Yes,Yes,Yes,Yes
+452,27/08/14 15:53,40,Genderqueer,United States,VA,No,Yes,No,Never,More than 1000,No,Yes,Yes,Yes
+453,27/08/14 15:54,30,male,United States,WA,No,Yes,Yes,Often,More than 1000,No,Yes,Yes,Yes
+454,27/08/14 15:55,34,M,United States,CA,No,No,Yes,Sometimes,Jun-25,No,Yes,Don't know,Not sure
+455,27/08/14 15:55,27,Male,United States,OR,No,Yes,Yes,Sometimes,100-500,No,Yes,Don't know,Not sure
+456,27/08/14 15:55,36,Male,United States,MI,No,No,No,Sometimes,More than 1000,No,Yes,Don't know,No
+457,27/08/14 15:56,27,Male,Brazil,NA,No,No,No,Rarely,Jun-25,No,Yes,No,Yes
+458,27/08/14 15:58,35,Male,Netherlands,NA,No,Yes,No,Never,100-500,No,Yes,Yes,No
+459,27/08/14 15:59,32,Male,United Kingdom,NA,No,No,No,Never,Jun-25,No,Yes,No,No
+460,27/08/14 15:59,37,M,United States,OR,No,No,No,NA,500-1000,No,Yes,Yes,No
+461,27/08/14 16:00,29,Male,United Kingdom,NA,No,No,No,NA,26-100,No,Yes,Don't know,No
+462,27/08/14 16:01,33,Female ,United States,CA,No,No,No,Never,500-1000,No,Yes,Yes,Not sure
+463,27/08/14 16:01,28,Make,United States,UT,No,No,No,Sometimes,Jun-25,Yes,Yes,No,Yes
+464,27/08/14 16:02,26,Female,United States,CA,No,Yes,No,Never,26-100,No,Yes,Don't know,Not sure
+465,27/08/14 16:03,27,M,United States,TX,No,Yes,Yes,Sometimes,Jun-25,Yes,Yes,Don't know,No
+466,27/08/14 16:04,38,Male,United Kingdom,NA,Yes,No,Yes,Sometimes,26-100,Yes,Yes,No,No
+467,27/08/14 16:06,57,M,United States,CA,No,Yes,Yes,Rarely,More than 1000,No,Yes,Yes,Yes
+468,27/08/14 16:07,28,Male,United Kingdom,NA,No,No,Yes,Sometimes,More than 1000,No,Yes,No,No
+469,27/08/14 16:10,26,male,France,NA,No,No,No,Never,Jun-25,No,Yes,No,Yes
+470,27/08/14 16:11,42,f,Netherlands,NA,No,No,Yes,Rarely,100-500,Yes,Yes,Yes,Yes
+471,27/08/14 16:13,31,Male,United States,OR,No,No,Yes,Sometimes,100-500,Yes,Yes,Yes,Yes
+472,27/08/14 16:13,58,Male,United States,CA,No,No,Yes,Rarely,More than 1000,No,Yes,Yes,Yes
+473,27/08/14 16:13,29,Male,United States,OH,No,No,No,Sometimes,Jun-25,No,Yes,Don't know,No
+474,27/08/14 16:14,39,Female,United Kingdom,NA,No,No,Yes,Sometimes,More than 1000,No,Yes,Yes,Yes
+475,27/08/14 16:14,34,Male,United States,OH,No,No,No,Sometimes,Jun-25,Yes,Yes,Don't know,No
+476,27/08/14 16:15,57,Male,United States,CA,No,No,Yes,Sometimes,More than 1000,No,Yes,Yes,Not sure
+477,27/08/14 16:15,27,Male,Germany,NA,No,Yes,Yes,Sometimes,Jun-25,No,Yes,No,Not sure
+478,27/08/14 16:16,23,male,Germany,NA,Yes,Yes,Yes,Often,26-100,Yes,Yes,Don't know,No
+479,27/08/14 16:16,18,male,Finland,NA,No,No,No,NA,500-1000,Yes,No,Don't know,No
+480,27/08/14 16:17,30,female,United States,NY,No,No,No,NA,100-500,No,Yes,Don't know,Not sure
+481,27/08/14 16:17,23,Male,United States,VA,No,No,No,Never,26-100,No,No,Don't know,Not sure
+482,27/08/14 16:18,43,M,United States,CA,No,No,Yes,Sometimes,More than 1000,No,Yes,Yes,Yes
+483,27/08/14 16:19,18,Female,United Kingdom,NA,No,Yes,Yes,Sometimes,1-May,Yes,Yes,Don't know,Not sure
+484,27/08/14 16:19,29,male,United States,IL,No,No,Yes,Rarely,Jun-25,No,Yes,Yes,Yes
+485,27/08/14 16:20,48,M,United States,TX,No,No,No,Never,Jun-25,No,Yes,Don't know,No
+486,27/08/14 16:20,43,male,Germany,NA,No,No,Yes,Sometimes,26-100,No,No,No,Yes
+487,27/08/14 16:21,28,Female,United States,NY,No,Yes,Yes,Sometimes,26-100,No,Yes,Don't know,Not sure
+488,27/08/14 16:21,30,Male,United States,CA,Yes,Yes,Yes,Often,1-May,Yes,Yes,No,Yes
+489,27/08/14 16:21,26,Male,Israel,MD,No,No,No,Sometimes,Jun-25,No,Yes,No,No
+490,27/08/14 16:21,33,Male,Italy,NA,No,No,No,Never,Jun-25,No,No,No,No
+491,27/08/14 16:22,31,Male,United States,CA,No,No,No,NA,More than 1000,No,Yes,Yes,Not sure
+492,27/08/14 16:22,30,M,United States,PA,No,No,No,Rarely,100-500,No,No,Don't know,Not sure
+493,27/08/14 16:23,27,Male,Israel,NA,No,No,No,NA,26-100,No,Yes,No,No
+494,27/08/14 16:25,24,Female,United States,CA,Yes,Yes,Yes,Sometimes,1-May,Yes,Yes,No,No
+495,27/08/14 16:26,25,male,United States,WA,No,No,No,NA,26-100,No,Yes,Don't know,Not sure
+496,27/08/14 16:27,23,Female,United States,NY,No,Yes,Yes,Often,More than 1000,No,Yes,Yes,Not sure
+497,27/08/14 16:27,36,m,United States,TX,No,No,Yes,Sometimes,More than 1000,No,No,Yes,Not sure
+498,27/08/14 16:28,25,female,United States,CA,Yes,Yes,Yes,Often,1-May,Yes,Yes,Don't know,Not sure
+499,27/08/14 16:28,54,Male,United Kingdom,NA,No,No,Yes,Sometimes,More than 1000,Yes,No,No,Yes
+500,27/08/14 16:29,34,Male,Netherlands,NA,No,No,No,Rarely,Jun-25,No,Yes,Don't know,Not sure
+501,27/08/14 16:29,38,female,United States,AZ,No,No,Yes,NA,26-100,No,Yes,Yes,Yes
+502,27/08/14 16:31,40,Male,Ireland,NA,Yes,Yes,No,NA,More than 1000,No,Yes,No,No
+503,27/08/14 16:32,32,male,United Kingdom,NA,No,No,No,NA,26-100,No,Yes,No,Not sure
+504,27/08/14 16:34,25,Male,Germany,NA,No,No,No,Never,More than 1000,No,No,Don't know,Not sure
+505,27/08/14 16:35,35,Female,United States,OH,No,No,Yes,Sometimes,100-500,No,Yes,No,Yes
+506,27/08/14 16:36,46,male,United States,CA,No,No,Yes,Sometimes,More than 1000,No,Yes,Yes,Yes
+507,27/08/14 16:39,42,male,United States,KS,No,No,No,Never,100-500,No,No,Yes,No
+508,27/08/14 16:39,32,male,United Kingdom,NA,No,Yes,Yes,Sometimes,Jun-25,Yes,Yes,Yes,No
+509,27/08/14 16:40,47,M,United States,CA,No,Yes,Yes,Sometimes,More than 1000,No,Yes,Yes,Yes
+510,27/08/14 16:42,22,Male,United States,CA,No,No,No,NA,More than 1000,No,Yes,Yes,Not sure
+511,27/08/14 16:42,33,Female,United States,NY,No,No,Yes,Sometimes,500-1000,Yes,Yes,Yes,Yes
+512,27/08/14 16:47,25,f,United States,WA,No,No,No,Sometimes,Jun-25,No,Yes,No,No
+513,27/08/14 16:53,29,M,United States,CA,No,No,No,NA,More than 1000,No,Yes,Don't know,Not sure
+514,27/08/14 16:55,39,Male,United States,WA,No,No,No,Never,26-100,No,Yes,Yes,Yes
+515,27/08/14 17:00,38,male,United States,VA,No,Yes,Yes,Sometimes,More than 1000,No,Yes,Yes,Not sure
+516,27/08/14 17:03,43,Male,United States,NC,No,No,No,NA,Jun-25,Yes,Yes,Don't know,No
+517,27/08/14 17:04,46,Male,United States,OH,No,No,Yes,Rarely,500-1000,Yes,Yes,Yes,Not sure
+518,27/08/14 17:08,38,Female,United States,PA,No,Yes,Yes,Sometimes,More than 1000,No,No,Yes,Yes
+519,27/08/14 17:09,33,Male,Germany,NA,No,No,Yes,Sometimes,Jun-25,No,Yes,Yes,Yes
+520,27/08/14 17:10,34,Male,United Kingdom,NA,No,Yes,Yes,Often,26-100,No,Yes,No,Yes
+521,27/08/14 17:12,62,M,United States,CA,No,No,No,Never,More than 1000,No,Yes,Yes,Yes
+522,27/08/14 17:14,23,F,United States,TX,No,No,No,NA,More than 1000,No,No,Don't know,Not sure
+523,27/08/14 17:15,35,Male,United States,AZ,No,No,No,NA,More than 1000,No,No,No,No
+524,27/08/14 17:19,25,Male,Bosnia and Herzegovina,NA,No,Yes,No,Rarely,26-100,Yes,Yes,Don't know,Not sure
+525,27/08/14 17:22,36,M,United States,IL,Yes,Yes,Yes,Sometimes,1-May,Yes,Yes,Don't know,Yes
+526,27/08/14 17:32,41,Female,United States,NA,No,Yes,Yes,Rarely,500-1000,Yes,Yes,Yes,Yes
+527,27/08/14 17:33,24,male,Austria,NA,Yes,No,No,Sometimes,1-May,No,Yes,Yes,Yes
+528,27/08/14 17:33,51,Male,New Zealand,NA,No,No,Yes,Sometimes,26-100,Yes,Yes,No,Yes
+529,27/08/14 17:33,29,M,United States,NC,No,No,Yes,Sometimes,Jun-25,No,Yes,Yes,Yes
+530,27/08/14 17:37,31,Female,Canada,NA,Yes,Yes,Yes,Sometimes,100-500,Yes,Yes,Don't know,Not sure
+531,27/08/14 17:39,27,Male,United Kingdom,NA,No,No,No,NA,Jun-25,No,Yes,No,No
+532,27/08/14 17:41,31,Male,Australia,NA,No,No,Yes,Rarely,100-500,No,Yes,Yes,Yes
+533,27/08/14 17:42,27,female,Hungary,NA,Yes,Yes,No,Sometimes,1-May,Yes,Yes,No,No
+534,27/08/14 17:46,23,Male,Sweden,NA,No,No,No,Rarely,Jun-25,No,Yes,Don't know,No
+535,27/08/14 17:47,21,Male,Canada,NA,No,No,No,Never,26-100,No,Yes,Don't know,Not sure
+536,27/08/14 17:48,27,Female,Australia,NA,No,Yes,Yes,Sometimes,Jun-25,No,Yes,No,Yes
+537,27/08/14 17:49,39,M,United States,WI,No,Yes,Yes,Often,26-100,Yes,Yes,Yes,Yes
+538,27/08/14 17:49,26,M,United States,CA,No,Yes,Yes,Never,More than 1000,No,Yes,Don't know,No
+539,27/08/14 17:52,27,Male,United Kingdom,NA,No,No,No,Never,Jun-25,No,Yes,Don't know,No
+540,27/08/14 17:56,22,Female,United States,CA,No,Yes,Yes,Sometimes,500-1000,No,Yes,Yes,Yes
+541,27/08/14 18:00,26,F,United States,MN,No,Yes,Yes,Often,100-500,No,No,Don't know,No
+542,27/08/14 18:02,31,Female,United States,PA,No,Yes,Yes,Rarely,100-500,No,Yes,Yes,Yes
+543,27/08/14 18:02,32,male,United Kingdom,NA,No,No,No,Never,Jun-25,No,Yes,Don't know,No
+544,27/08/14 18:12,28,female,United States,CA,No,Yes,Yes,Often,100-500,Yes,Yes,Yes,No
+545,27/08/14 18:13,28,Androgyne,United Kingdom,NA,No,Yes,Yes,Rarely,100-500,No,Yes,No,Not sure
+546,27/08/14 18:14,23,female,United Kingdom,NA,No,No,No,NA,Jun-25,No,Yes,Don't know,Not sure
+547,27/08/14 18:16,30,Male,United Kingdom,NA,No,No,No,Never,26-100,Yes,Yes,Don't know,Not sure
+548,27/08/14 18:18,36,Male,United States,CA,No,Yes,Yes,Sometimes,More than 1000,No,Yes,Yes,No
+549,27/08/14 18:22,21,M,United States,CA,No,Yes,No,NA,More than 1000,No,Yes,Yes,Yes
+550,27/08/14 18:29,30,male,Germany,NA,No,No,No,Often,26-100,No,Yes,No,No
+551,27/08/14 18:39,25,Woman,United States,CA,No,Yes,No,NA,500-1000,No,No,Don't know,Not sure
+552,27/08/14 18:41,32,Male,New Zealand,NA,No,No,Yes,Sometimes,Jun-25,No,Yes,No,No
+553,27/08/14 18:43,29,female,Canada,NA,No,No,Yes,Sometimes,1-May,No,Yes,No,No
+554,27/08/14 18:56,21,Agender,United Kingdom,NA,No,No,Yes,Sometimes,26-100,No,Yes,No,Yes
+555,27/08/14 18:59,27,Female,New Zealand,NA,No,Yes,Yes,Rarely,100-500,Yes,Yes,No,No
+556,27/08/14 19:05,32,Female,Canada,NA,No,No,Yes,Often,More than 1000,No,No,Don't know,Not sure
+557,27/08/14 19:08,34,M,Australia,NA,No,No,No,Sometimes,More than 1000,No,Yes,Yes,Yes
+558,27/08/14 19:13,33,M,United States,NY,No,No,No,NA,26-100,No,Yes,Don't know,No
+559,27/08/14 19:13,22,Male,Netherlands,NA,No,Yes,Yes,Sometimes,Jun-25,Yes,Yes,No,Not sure
+560,27/08/14 19:16,24,M,United States,CA,No,No,No,NA,More than 1000,No,Yes,Don't know,Not sure
+561,27/08/14 19:17,65,Male,United States,FL,Yes,No,No,NA,Jun-25,Yes,No,No,No
+562,27/08/14 19:25,27,Male,United States,OR,No,Yes,Yes,Sometimes,100-500,Yes,Yes,Don't know,No
+563,27/08/14 19:27,33,Male,Australia,NA,No,No,No,Never,More than 1000,No,Yes,Don't know,Not sure
+564,27/08/14 19:28,36,Male,United States,CO,No,No,Yes,Rarely,26-100,No,Yes,Don't know,Not sure
+565,27/08/14 19:34,40,Male,Canada,NA,No,No,No,Never,26-100,No,Yes,No,No
+566,27/08/14 19:34,28,male,United States,GA,No,No,Yes,Sometimes,More than 1000,No,Yes,Yes,Yes
+567,27/08/14 19:38,39,Male,United States,OR,No,No,Yes,Sometimes,500-1000,No,Yes,Yes,Not sure
+568,27/08/14 19:41,32,Male,United States,CA,No,No,Yes,Sometimes,More than 1000,No,Yes,Yes,No
+569,27/08/14 19:45,31,male,United States,CA,No,Yes,No,Sometimes,More than 1000,No,Yes,Yes,Not sure
+570,27/08/14 19:59,38,Make,United States,PA,No,Yes,Yes,Sometimes,100-500,No,Yes,Don't know,No
+571,27/08/14 20:13,23,Male,United States,CA,No,Yes,Yes,Rarely,1-May,No,Yes,No,Yes
+572,27/08/14 20:17,42,Make,United States,CA,No,No,Yes,Often,More than 1000,No,Yes,Yes,Yes
+573,27/08/14 20:33,27,Female,United States,NY,No,No,No,Sometimes,500-1000,No,Yes,Don't know,Not sure
+574,27/08/14 20:48,26,Female,United States,MA,No,Yes,Yes,Sometimes,26-100,No,Yes,Yes,Yes
+575,27/08/14 20:52,50,Male,United States,NA,No,No,No,Never,26-100,Yes,Yes,No,Yes
+576,27/08/14 20:52,37,Male,United States,PA,No,Yes,No,Never,26-100,No,Yes,Don't know,No
+577,27/08/14 20:53,23,Male,United States,RI,No,No,No,NA,26-100,No,Yes,Don't know,No
+578,27/08/14 20:55,33,M,United States,MI,No,Yes,No,Sometimes,Jun-25,Yes,Yes,Don't know,Not sure
+579,27/08/14 21:05,29,male,Canada,NA,Yes,No,No,Never,26-100,Yes,Yes,Yes,Yes
+580,27/08/14 21:15,34,Male,United States,IL,No,Yes,Yes,Sometimes,26-100,Yes,No,Yes,No
+581,27/08/14 21:17,41,male,United States,CA,No,Yes,Yes,Often,More than 1000,No,Yes,Yes,No
+582,27/08/14 21:21,50,Male,United States,OR,No,Yes,No,NA,100-500,Yes,Yes,Don't know,No
+583,27/08/14 21:35,29,Male,Canada,NA,No,No,Yes,Never,More than 1000,No,No,Yes,Not sure
+584,27/08/14 21:39,35,Male,United States,IN,No,No,No,Never,Jun-25,No,Yes,No,Yes
+585,27/08/14 21:45,27,Male,Singapore,NA,No,No,No,Sometimes,1-May,Yes,Yes,No,No
+586,27/08/14 21:54,40,Female,United States,MA,No,No,No,Never,26-100,No,No,Don't know,Not sure
+587,27/08/14 21:54,27,Male,Australia,NA,No,No,Yes,Often,100-500,Yes,Yes,No,No
+588,27/08/14 21:55,29,f,United States,MI,No,No,No,Never,26-100,No,Yes,Yes,Yes
+589,27/08/14 22:00,31,Male,United States,OH,No,Yes,Yes,Sometimes,Jun-25,No,Yes,No,No
+590,27/08/14 22:04,43,Male,United States,OH,No,No,Yes,Sometimes,Jun-25,No,Yes,No,Yes
+591,27/08/14 22:04,34,Male,United States,NH,No,Yes,Yes,Sometimes,26-100,Yes,Yes,Yes,Yes
+592,27/08/14 22:06,29,Male,United States,OH,No,Yes,Yes,Sometimes,26-100,No,Yes,Don't know,No
+593,27/08/14 22:07,19,Male,Canada,NA,No,Yes,Yes,Sometimes,1-May,No,Yes,No,No
+594,27/08/14 22:11,41,m,United States,TN,No,Yes,Yes,Sometimes,More than 1000,No,Yes,Yes,Not sure
+595,27/08/14 22:12,29,Male,United States,OR,No,Yes,No,Never,100-500,No,Yes,Yes,Yes
+596,27/08/14 22:13,23,Male,United States,PA,No,No,No,Rarely,100-500,No,Yes,Yes,Not sure
+597,27/08/14 22:14,24,Female,United States,NA,No,Yes,Yes,Sometimes,100-500,No,Yes,Yes,Not sure
+598,27/08/14 22:14,31,M,United States,NY,No,No,No,NA,26-100,Yes,Yes,Don't know,No
+599,27/08/14 22:21,43,Male,United States,WA,No,No,No,NA,500-1000,Yes,Yes,Don't know,Not sure
+600,27/08/14 22:26,31,Male,United States,NY,No,Yes,Yes,Rarely,100-500,No,Yes,No,No
+601,27/08/14 22:32,29,Male,United States,CA,No,Yes,No,Often,100-500,No,Yes,Yes,Yes
+602,27/08/14 22:35,35,Male,United States,TN,Yes,Yes,No,NA,Jun-25,Yes,Yes,No,No
+603,27/08/14 22:36,33,Male,United States,WI,No,Yes,Yes,Sometimes,100-500,No,No,Yes,Not sure
+604,27/08/14 22:55,30,cis-female/femme,United States,WI,Yes,Yes,Yes,Often,1-May,Yes,No,No,Yes
+605,27/08/14 22:59,27,male,United States,PA,No,No,No,NA,More than 1000,No,Yes,Yes,Not sure
+606,27/08/14 23:09,32,Male,United States,MI,No,No,No,Sometimes,100-500,No,Yes,No,Yes
+607,27/08/14 23:10,50,Male,United States,WY,No,No,No,Sometimes,1-May,Yes,Yes,Don't know,No
+608,27/08/14 23:10,24,male,United States,KY,No,No,No,Never,26-100,No,No,Don't know,Not sure
+609,27/08/14 23:14,27,Male,United States,NY,No,No,No,NA,26-100,No,Yes,Don't know,No
+610,27/08/14 23:30,27,Male,Australia,NA,No,No,No,Never,1-May,Yes,Yes,No,No
+611,27/08/14 23:54,32,Male,United States,TX,No,No,Yes,Sometimes,Jun-25,No,Yes,No,Yes
+612,27/08/14 23:56,42,Male,United States,WI,Yes,No,No,Rarely,Jun-25,Yes,No,No,Yes
+613,27/08/14 23:57,37,Male,United States,WA,No,No,No,Often,More than 1000,No,No,Don't know,No
+614,27/08/14 23:59,30,Male,Singapore,NA,No,No,No,Sometimes,26-100,No,Yes,Don't know,Not sure
+615,28/08/14 0:02,29,Male,United States,WA,No,No,No,Rarely,More than 1000,No,Yes,Yes,No
+616,28/08/14 0:05,30,Male,United States,GA,Yes,No,Yes,Often,Jun-25,Yes,Yes,No,Not sure
+617,28/08/14 0:17,35,Male,United States,MI,No,No,No,Never,26-100,No,Yes,Yes,No
+618,28/08/14 0:43,35,Male,United States,MD,No,Yes,Yes,Rarely,100-500,Yes,No,Yes,Yes
+619,28/08/14 0:47,38,male,Netherlands,NA,No,Yes,No,Often,26-100,Yes,Yes,No,Not sure
+620,28/08/14 1:04,22,Male,United Kingdom,NA,No,Yes,Yes,Sometimes,100-500,No,Yes,Yes,Yes
+621,28/08/14 1:14,24,m,Germany,NA,No,Yes,No,Sometimes,100-500,No,Yes,Don't know,No
+622,28/08/14 1:19,22,M,Netherlands,NA,Yes,No,No,Never,1-May,No,Yes,Don't know,Not sure
+623,28/08/14 1:30,31,Female,United States,WA,No,No,Yes,Often,26-100,Yes,Yes,Yes,Yes
+624,28/08/14 1:38,23,female,United States,CA,No,Yes,Yes,Sometimes,More than 1000,No,Yes,Yes,Yes
+625,28/08/14 1:41,31,Female,United States,OR,No,Yes,Yes,Sometimes,100-500,No,Yes,Don't know,No
+626,28/08/14 1:56,28,Female,United States,CA,No,Yes,Yes,Rarely,500-1000,No,Yes,Yes,Yes
+627,28/08/14 2:15,37,Guy (-ish) ^_^,Canada,NA,No,Yes,Yes,Sometimes,100-500,No,No,Yes,Yes
+628,28/08/14 2:17,34,male,United States,CA,Yes,Yes,Yes,Sometimes,Jun-25,No,Yes,No,Yes
+629,28/08/14 2:19,32,male leaning androgynous,Canada,NA,No,No,No,Sometimes,26-100,Yes,Yes,No,Yes
+630,28/08/14 2:30,28,Male,United States,MI,No,Yes,Yes,Sometimes,26-100,Yes,Yes,Yes,Not sure
+631,28/08/14 2:32,24,Female,United Kingdom,NA,No,No,Yes,Sometimes,100-500,No,Yes,No,No
+632,28/08/14 2:41,56,Male ,United States,MA,No,Yes,Yes,Rarely,Jun-25,No,Yes,Yes,Yes
+633,28/08/14 2:46,31,Male,Germany,NA,No,No,No,Sometimes,Jun-25,Yes,Yes,No,No
+634,28/08/14 2:49,34,female,United States,CA,No,No,Yes,Sometimes,100-500,Yes,Yes,Yes,Yes
+635,28/08/14 2:52,35,m,Germany,NA,No,No,Yes,Rarely,100-500,No,No,Don't know,No
+636,28/08/14 2:54,28,male,Germany,NA,No,No,No,Never,26-100,No,Yes,No,No
+637,28/08/14 3:05,36,male,Poland,NA,Yes,Yes,Yes,Often,Jun-25,No,Yes,No,No
+638,28/08/14 3:06,30,Male,United Kingdom,NA,No,No,Yes,Often,26-100,No,Yes,No,No
+639,28/08/14 3:13,35,Male,United States,NA,Yes,No,No,NA,1-May,Yes,Yes,Yes,Not sure
+640,28/08/14 3:13,49,male,Japan,NA,Yes,Yes,Yes,Sometimes,1-May,Yes,Yes,No,Yes
+641,28/08/14 3:15,36,Male,Germany,NA,No,No,No,NA,26-100,No,Yes,Yes,Yes
+642,28/08/14 3:16,35,male,Germany,NA,No,No,No,NA,26-100,No,Yes,No,No
+643,28/08/14 3:29,29,Female,Australia,NA,No,Yes,Yes,Sometimes,More than 1000,No,No,Yes,Yes
+644,28/08/14 3:36,57,Male,United States,CA,No,No,No,Never,26-100,No,Yes,Yes,Yes
+645,28/08/14 3:42,31,female,Belgium,NA,No,Yes,Yes,Rarely,100-500,No,No,Yes,No
+646,28/08/14 3:47,37,Male,Ireland,NA,Yes,No,No,Never,Jun-25,No,Yes,No,No
+647,28/08/14 3:49,25,Male,Ireland,NA,No,Yes,Yes,Sometimes,26-100,No,Yes,No,No
+648,28/08/14 3:52,30,Male,Australia,NA,No,No,No,Sometimes,26-100,No,Yes,No,No
+649,28/08/14 4:00,26,F,Australia,NA,No,Yes,No,Sometimes,100-500,No,No,No,Yes
+650,28/08/14 4:02,22,Female,Netherlands,NA,No,No,No,Often,Jun-25,No,Yes,No,No
+651,28/08/14 4:07,39,M,United States,FL,No,No,No,Rarely,More than 1000,Yes,No,Don't know,No
+652,28/08/14 4:09,29,Male,United Kingdom,NA,No,Yes,Yes,Never,100-500,No,Yes,Don't know,Not sure
+653,28/08/14 4:11,54,male,United Kingdom,NA,Yes,Yes,Yes,Sometimes,1-May,Yes,Yes,Don't know,Not sure
+654,28/08/14 4:16,34,Female,Australia,NA,No,Yes,No,Never,500-1000,No,No,Don't know,No
+655,28/08/14 4:23,32,M,United States,WA,No,No,Yes,Never,500-1000,No,No,Yes,Not sure
+656,28/08/14 4:24,25,Male,Nigeria,NA,No,No,No,NA,Jun-25,No,Yes,No,No
+657,28/08/14 4:30,29,male,Poland,NA,No,No,No,Rarely,1-May,No,Yes,No,No
+658,28/08/14 4:34,32,male,Germany,NA,Yes,No,No,Never,1-May,Yes,Yes,No,No
+659,28/08/14 4:37,30,M,United Kingdom,NA,No,Yes,Yes,Sometimes,More than 1000,No,Yes,Yes,Yes
+660,28/08/14 4:53,31,male,Germany,NA,No,No,No,NA,Jun-25,No,Yes,Don't know,No
+661,28/08/14 5:05,20,F,Switzerland,NA,No,No,No,Rarely,More than 1000,No,Yes,Yes,Yes
+662,28/08/14 5:12,27,Male,United Kingdom,NA,No,No,No,Never,1-May,No,Yes,Don't know,No
+663,28/08/14 5:14,32,Male,United States,CA,No,No,No,Never,More than 1000,No,Yes,Don't know,Not sure
+664,28/08/14 6:02,26,Male,Ireland,NA,Yes,No,No,Never,1-May,Yes,Yes,No,No
+665,28/08/14 6:05,30,Male,Italy,NA,No,No,No,Sometimes,More than 1000,No,No,Don't know,No
+666,28/08/14 6:10,30,Male,Ireland,NA,No,No,Yes,Sometimes,26-100,Yes,Yes,No,No
+667,28/08/14 6:11,22,male,India,NA,Yes,No,No,NA,1-May,Yes,Yes,Don't know,No
+668,28/08/14 6:27,24,male,Ireland,NA,No,No,No,NA,More than 1000,No,Yes,Don't know,Not sure
+669,28/08/14 6:30,26,m,Netherlands,NA,No,No,No,Never,26-100,No,Yes,No,No
+670,28/08/14 7:01,43,male,France,NA,No,No,No,NA,100-500,No,Yes,Don't know,No
+671,28/08/14 7:03,26,Male,Russia,NA,No,No,No,Never,26-100,No,Yes,No,Not sure
+672,28/08/14 7:03,23,Male,United States,NC,No,Yes,No,Sometimes,Jun-25,No,Yes,Don't know,Not sure
+673,28/08/14 7:12,26,Man,Canada,NA,No,No,No,NA,100-500,Yes,Yes,Yes,Not sure
+674,28/08/14 8:00,26,female,Israel,NA,No,Yes,No,Never,100-500,No,Yes,Don't know,No
+675,28/08/14 8:06,35,Male,Canada,NA,No,Yes,No,Sometimes,26-100,No,Yes,Don't know,No
+676,28/08/14 8:18,28,Male,United States,IL,No,No,Yes,Sometimes,26-100,Yes,No,Don't know,Not sure
+677,28/08/14 8:23,22,Male,India,NA,No,No,No,NA,26-100,No,Yes,No,No
+678,28/08/14 8:39,29,Female,United States,OH,No,Yes,Yes,Rarely,Jun-25,No,Yes,Don't know,No
+679,28/08/14 8:40,29,Male,Germany,NA,Yes,No,No,NA,1-May,No,Yes,No,Yes
+680,28/08/14 8:43,45,Male,United States,VA,No,No,Yes,Often,1-May,Yes,Yes,Yes,Not sure
+681,28/08/14 8:43,33,male,Bulgaria,NA,No,No,Yes,Rarely,26-100,Yes,Yes,No,No
+682,28/08/14 8:43,38,Male,United States,MN,No,No,Yes,Sometimes,More than 1000,No,No,Yes,Yes
+683,28/08/14 9:02,19,Trans woman,United States,MO,No,Yes,Yes,Often,26-100,No,No,Don't know,Not sure
+684,28/08/14 9:09,29,female,Canada,NA,No,No,Yes,Rarely,More than 1000,Yes,No,Yes,Yes
+685,28/08/14 9:16,21,Female,United Kingdom,NA,No,No,No,NA,Jun-25,No,Yes,No,No
+686,28/08/14 9:18,23,Female,India,NA,No,Yes,Yes,Sometimes,More than 1000,No,Yes,Don't know,Not sure
+687,28/08/14 9:40,33,female,United States,NC,No,Yes,Yes,Rarely,More than 1000,No,Yes,Yes,Yes
+688,28/08/14 9:53,49,Male,United States,NY,No,Yes,Yes,Sometimes,100-500,No,Yes,Yes,Not sure
+689,28/08/14 9:53,28,Male,United States,NM,No,No,No,NA,26-100,Yes,Yes,Don't know,No
+690,28/08/14 9:54,27,f,United Kingdom,NA,No,No,Yes,Sometimes,Jun-25,Yes,Yes,Don't know,Not sure
+691,28/08/14 9:54,23,male,Canada,NA,No,No,Yes,Sometimes,Jun-25,No,Yes,Yes,No
+692,28/08/14 9:54,29,M,Netherlands,NA,No,No,No,Never,1-May,Yes,Yes,No,No
+693,28/08/14 9:54,30,m,Germany,NA,No,No,No,NA,26-100,No,Yes,Don't know,No
+694,28/08/14 9:55,28,Female,Canada,NA,No,No,No,NA,More than 1000,No,Yes,Yes,Not sure
+695,28/08/14 9:56,32,Male,United Kingdom,NA,No,No,No,NA,Jun-25,No,Yes,No,No
+696,28/08/14 9:56,32,Male,United Kingdom,NA,No,No,Yes,Sometimes,26-100,No,No,Yes,Yes
+697,28/08/14 9:56,37,Male,France,NA,No,No,No,NA,100-500,No,Yes,No,No
+698,28/08/14 9:56,39,F,United States,TX,No,No,No,NA,More than 1000,Yes,No,No,Yes
+699,28/08/14 9:56,31,male,France,NA,No,No,No,NA,500-1000,No,Yes,Don't know,No
+700,28/08/14 9:57,29,Male,United States,SC,No,No,No,NA,Jun-25,No,Yes,No,No
+701,28/08/14 9:57,30,M,United States,FL,No,No,No,NA,100-500,No,No,Yes,No
+702,28/08/14 9:57,33,M,United States,WA,Yes,Yes,Yes,Rarely,1-May,Yes,Yes,No,Yes
+703,28/08/14 9:58,37,male,United States,CA,No,Yes,Yes,Sometimes,100-500,No,Yes,Yes,Yes
+704,28/08/14 9:59,23,Male,United States,OH,No,No,Yes,Often,26-100,No,No,Yes,Yes
+705,28/08/14 9:59,43,M,United States,TN,No,Yes,Yes,Sometimes,26-100,No,No,Yes,Not sure
+706,28/08/14 10:00,32,Male,United Kingdom,NA,No,No,Yes,Rarely,100-500,No,Yes,Don't know,No
+707,28/08/14 10:01,26,Male,United States,NY,No,No,No,Never,26-100,No,Yes,Don't know,Not sure
+708,28/08/14 10:01,32,Male,United States,NY,Yes,No,Yes,Sometimes,1-May,Yes,Yes,Don't know,Not sure
+709,28/08/14 10:02,37,F,United States,MO,No,No,No,NA,26-100,Yes,Yes,Don't know,Not sure
+710,28/08/14 10:02,29,Male,United States,NY,No,No,Yes,Often,26-100,No,Yes,Yes,Yes
+711,28/08/14 10:02,34,Male,United Kingdom,NA,No,No,No,NA,Jun-25,No,Yes,No,No
+712,28/08/14 10:04,27,male,France,NA,No,No,No,NA,Jun-25,No,Yes,Don't know,Not sure
+713,28/08/14 10:04,30,male,United States,TN,No,Yes,No,Never,100-500,No,Yes,Don't know,No
+714,28/08/14 10:05,29,Male,United States,CO,No,No,No,Never,Jun-25,No,Yes,Yes,Yes
+715,28/08/14 10:07,32,Male,United States,PA,Yes,Yes,Yes,Sometimes,1-May,Yes,Yes,Yes,Yes
+716,28/08/14 10:07,-1726,male,United Kingdom,NA,No,No,Yes,Sometimes,26-100,No,No,No,No
+717,28/08/14 10:08,25,Male,Germany,NA,No,No,No,NA,500-1000,No,Yes,Yes,Yes
+718,28/08/14 10:08,37,male,United States,NY,Yes,No,No,NA,Jun-25,Yes,Yes,Yes,Yes
+719,28/08/14 10:10,29,Male,Netherlands,NA,No,Yes,No,NA,Jun-25,No,Yes,No,No
+720,28/08/14 10:11,27,Man,United States,MN,No,No,No,NA,26-100,No,Yes,Yes,Not sure
+721,28/08/14 10:13,33,Male,United Kingdom,NA,No,No,No,NA,Jun-25,No,Yes,Don't know,No
+722,28/08/14 10:15,30,male,Canada,NA,No,Yes,Yes,Sometimes,More than 1000,No,No,Don't know,No
+723,28/08/14 10:16,29,male,Canada,NA,No,No,No,NA,1-May,Yes,Yes,No,Yes
+724,28/08/14 10:17,25,Male,United States,MO,No,Yes,Yes,Never,Jun-25,Yes,Yes,Don't know,No
+725,28/08/14 10:18,33,Male,United States,WY,No,Yes,Yes,Sometimes,1-May,No,No,No,Yes
+726,28/08/14 10:18,31,Male,South Africa,NA,No,No,No,Never,100-500,Yes,Yes,No,No
+727,28/08/14 10:20,21,male,Germany,NA,No,No,No,Rarely,Jun-25,Yes,Yes,Don't know,No
+728,28/08/14 10:22,30,Male,Switzerland,NA,No,Yes,Yes,Sometimes,26-100,No,Yes,Don't know,No
+729,28/08/14 10:24,29,Male,United States,MN,No,No,No,NA,More than 1000,No,No,Don't know,Not sure
+730,28/08/14 10:25,43,Male,Croatia,NA,Yes,No,Yes,Sometimes,1-May,Yes,Yes,No,No
+731,28/08/14 10:29,37,m,United Kingdom,NA,No,No,Yes,Often,Jun-25,No,Yes,No,No
+732,28/08/14 10:30,24,Male,France,NA,No,No,No,NA,26-100,No,Yes,No,No
+733,28/08/14 10:30,29,Male,United States,MD,No,No,No,NA,Jun-25,Yes,Yes,Don't know,Not sure
+734,28/08/14 10:34,31,Male,United States,KY,No,No,No,NA,26-100,No,No,Yes,Yes
+735,28/08/14 10:35,5,Male,United States,OH,No,No,No,NA,100-500,No,Yes,Don't know,Not sure
+736,28/08/14 10:42,33,Male,United Kingdom,NA,Yes,No,No,Never,100-500,No,No,No,Not sure
+737,28/08/14 10:45,43,male,United States,NY,No,No,No,NA,More than 1000,No,No,Yes,Yes
+738,28/08/14 10:47,33,Male,United Kingdom,NA,No,No,Yes,Sometimes,26-100,No,Yes,Don't know,Not sure
+739,28/08/14 10:51,27,Male,United Kingdom,NA,No,No,No,NA,Jun-25,No,Yes,No,No
+740,28/08/14 10:52,36,Male,United States,TN,No,Yes,Yes,Sometimes,More than 1000,Yes,No,Don't know,No
+741,28/08/14 10:54,37,male,Australia,NA,No,Yes,Yes,Sometimes,26-100,No,Yes,No,Yes
+742,28/08/14 10:57,32,male,Belgium,NA,No,No,No,NA,Jun-25,No,Yes,No,Yes
+743,28/08/14 11:02,39,Male,United Kingdom,NA,No,No,Yes,Sometimes,100-500,No,Yes,No,No
+744,28/08/14 11:04,31,Male,United States,TX,No,Yes,Yes,Sometimes,26-100,No,Yes,Yes,Yes
+745,28/08/14 11:04,36,Male,United States,OH,No,No,Yes,Sometimes,100-500,Yes,Yes,Yes,Yes
+746,28/08/14 11:07,30,Male,United States,TX,Yes,No,Yes,Sometimes,26-100,Yes,Yes,Don't know,Not sure
+747,28/08/14 11:09,28,male,Canada,NA,No,No,No,NA,Jun-25,No,Yes,Yes,Not sure
+748,28/08/14 11:10,32,Male,Italy,NA,No,No,No,NA,Jun-25,No,Yes,No,No
+749,28/08/14 11:14,35,Male,United States,CA,No,Yes,Yes,Rarely,Jun-25,No,Yes,Yes,Yes
+750,28/08/14 11:15,19,Male,Canada,NA,No,No,Yes,Sometimes,26-100,No,Yes,Don't know,Not sure
+751,28/08/14 11:19,33,m,Norway,NA,No,Yes,No,NA,26-100,No,Yes,Yes,Yes
+752,28/08/14 11:20,42,male,Germany,NA,No,No,No,NA,More than 1000,Yes,Yes,Don't know,Not sure
+753,28/08/14 11:21,37,Male,United States,MI,No,Yes,Yes,Sometimes,100-500,No,Yes,Don't know,Not sure
+754,28/08/14 11:21,40,Male,Thailand,NA,Yes,No,No,Never,Jun-25,No,Yes,No,No
+755,28/08/14 11:22,36,M,United States,CA,No,No,No,Never,More than 1000,No,Yes,Yes,Yes
+756,28/08/14 11:26,29,Female,United States,OR,No,Yes,Yes,Sometimes,26-100,Yes,No,Don't know,No
+757,28/08/14 11:27,38,f,United States,NC,No,Yes,Yes,Sometimes,26-100,No,No,Yes,Not sure
+758,28/08/14 11:29,26,M,United States,CA,No,Yes,Yes,Sometimes,More than 1000,No,Yes,Yes,No
+759,28/08/14 11:32,34,male,Germany,NA,No,No,No,Rarely,26-100,No,Yes,No,No
+760,28/08/14 11:34,21,Male,United States,IL,No,No,Yes,Often,More than 1000,No,No,No,Yes
+761,28/08/14 11:36,31,Male,Canada,NA,Yes,Yes,No,Sometimes,1-May,Yes,Yes,No,Yes
+762,28/08/14 11:38,37,Female,United States,CA,No,Yes,Yes,Rarely,26-100,No,No,Yes,Yes
+763,28/08/14 11:40,37,Male,Ireland,NA,No,Yes,Yes,Sometimes,1-May,No,Yes,No,No
+764,28/08/14 11:44,38,Male,Ireland,NA,No,Yes,Yes,Sometimes,1-May,No,Yes,No,No
+765,28/08/14 11:47,27,Female,United States,CA,No,No,Yes,Sometimes,100-500,No,Yes,Don't know,Not sure
+766,28/08/14 11:48,39,Male,Netherlands,NA,Yes,No,No,NA,Jun-25,No,Yes,No,No
+767,28/08/14 11:50,33,Female,United States,AZ,Yes,Yes,Yes,Sometimes,1-May,No,Yes,Yes,Yes
+768,28/08/14 11:50,27,Male,United Kingdom,NA,No,No,No,Never,26-100,No,Yes,Don't know,Not sure
+769,28/08/14 11:54,36,F,United States,CA,No,No,Yes,Never,Jun-25,Yes,Yes,Yes,No
+770,28/08/14 11:58,28,Male,United Kingdom,NA,No,No,No,Never,26-100,No,Yes,Don't know,Not sure
+771,28/08/14 11:59,39,male,United Kingdom,NA,No,No,Yes,Sometimes,500-1000,No,No,Don't know,No
+772,28/08/14 12:02,33,Male,United States,VA,Yes,Yes,Yes,Sometimes,1-May,Yes,Yes,No,Yes
+773,28/08/14 12:05,32,Male,United Kingdom,NA,No,No,No,NA,More than 1000,No,No,Don't know,Not sure
+774,28/08/14 12:06,28,Male,United Kingdom,NA,No,No,No,NA,More than 1000,No,No,Don't know,Not sure
+775,28/08/14 12:07,37,Male,United Kingdom,NA,No,Yes,Yes,Rarely,Jun-25,No,Yes,No,No
+776,28/08/14 12:08,39,Male,Canada,NA,No,No,Yes,Sometimes,100-500,No,No,Yes,Yes
+777,28/08/14 12:09,43,msle,United States,VA,No,No,No,Sometimes,Jun-25,Yes,Yes,Don't know,No
+778,28/08/14 12:10,32,Neuter,United Kingdom,NA,No,No,Yes,Sometimes,More than 1000,No,No,Don't know,No
+779,28/08/14 12:10,27,Female,United States,WA,No,No,No,NA,More than 1000,No,Yes,Don't know,Not sure
+780,28/08/14 12:12,31,Female,United Kingdom,NA,No,No,No,NA,Jun-25,No,Yes,Don't know,No
+781,28/08/14 12:15,43,Male,United Kingdom,NA,No,No,Yes,Never,26-100,No,Yes,Don't know,No
+782,28/08/14 12:19,33,Male,United States,WI,No,No,Yes,Sometimes,Jun-25,Yes,Yes,No,Yes
+783,28/08/14 12:19,34,male,United Kingdom,NA,No,Yes,Yes,Sometimes,More than 1000,No,Yes,Don't know,Not sure
+784,28/08/14 12:22,33,M,United States,CA,Yes,No,No,NA,1-May,No,Yes,Don't know,No
+785,28/08/14 12:23,25,Male,United States,CA,No,No,No,NA,Jun-25,No,Yes,Don't know,No
+786,28/08/14 12:30,25,Male,United States,NE,No,Yes,Yes,Sometimes,More than 1000,No,No,Yes,Yes
+787,28/08/14 12:40,32,Male,United Kingdom,NA,Yes,Yes,No,NA,1-May,No,Yes,No,Yes
+788,28/08/14 12:42,25,Male,United States,CO,No,Yes,Yes,Sometimes,26-100,No,Yes,Yes,Yes
+789,28/08/14 12:42,37,Male,Netherlands,NA,No,No,No,NA,100-500,Yes,No,Don't know,No
+790,28/08/14 12:44,39,m,Switzerland,NA,No,No,Yes,Never,More than 1000,No,Yes,Yes,Yes
+791,28/08/14 12:53,29,M,United Kingdom,NA,No,No,No,Rarely,100-500,No,Yes,Don't know,Not sure
+792,28/08/14 13:01,33,Male,United States,NY,No,No,Yes,Sometimes,More than 1000,No,Yes,Yes,Yes
+793,28/08/14 13:04,37,female,United States,TX,No,No,Yes,Often,Jun-25,Yes,Yes,Don't know,Not sure
+794,28/08/14 13:08,35,Female,United States,LA,No,No,Yes,Sometimes,100-500,No,No,Yes,No
+795,28/08/14 13:11,22,Female,United States,WA,No,Yes,Yes,Sometimes,More than 1000,No,Yes,Don't know,Not sure
+796,28/08/14 13:17,38,Male,United States,MI,No,No,No,Never,26-100,No,Yes,Yes,Yes
+797,28/08/14 13:26,32,Female,United States,CA,No,Yes,Yes,Often,100-500,No,Yes,Yes,No
+798,28/08/14 13:32,28,Male,Brazil,NA,No,No,No,NA,26-100,No,Yes,Don't know,No
+799,28/08/14 13:34,27,Male,Switzerland,NA,No,Yes,No,NA,26-100,No,Yes,No,No
+800,28/08/14 13:35,35,female,United States,CA,No,No,Yes,Sometimes,100-500,Yes,Yes,Don't know,No
+801,28/08/14 13:39,29,Male,United States,MD,No,No,No,Never,100-500,No,No,Yes,Yes
+802,28/08/14 13:39,23,Male,United States,CA,No,Yes,Yes,Sometimes,Jun-25,No,Yes,No,Yes
+803,28/08/14 13:40,39,M,United States,CT,No,No,No,NA,26-100,Yes,Yes,Yes,No
+804,28/08/14 13:41,30,Female,United States,CA,No,No,No,NA,More than 1000,No,Yes,Yes,Yes
+805,28/08/14 13:47,32,M,United Kingdom,NA,No,No,No,NA,26-100,No,Yes,Don't know,Not sure
+806,28/08/14 13:47,28,Female (trans),United States,CA,No,No,Yes,Sometimes,26-100,No,Yes,No,Yes
+807,28/08/14 13:48,40,female,United States,WA,No,Yes,Yes,Sometimes,100-500,No,No,Yes,Yes
+808,28/08/14 13:54,36,f,United States,CA,No,Yes,No,NA,Jun-25,No,Yes,Don't know,No
+809,28/08/14 13:57,27,Male,United States,IN,No,No,No,NA,26-100,Yes,Yes,Don't know,Not sure
+810,28/08/14 14:00,41,Male,United States,TX,No,Yes,No,Sometimes,More than 1000,No,Yes,Yes,Yes
+811,28/08/14 14:01,29,Male,United Kingdom,NA,No,No,No,Never,Jun-25,No,Yes,Don't know,No
+812,28/08/14 14:02,29,m,United Kingdom,NA,No,No,Yes,Sometimes,100-500,No,Yes,No,No
+813,28/08/14 14:04,35,Male,United States,MO,No,No,Yes,Often,1-May,No,No,No,No
+814,28/08/14 14:12,28,Male,United States,NV,No,No,Yes,Never,Jun-25,Yes,Yes,No,Yes
+815,28/08/14 14:15,36,F,United Kingdom,NA,Yes,No,No,Sometimes,1-May,Yes,Yes,Don't know,Not sure
+816,28/08/14 14:31,39,Female,United States,WA,No,No,No,Sometimes,26-100,No,Yes,Don't know,Not sure
+817,28/08/14 14:38,39,Male,United States,FL,No,Yes,Yes,Sometimes,500-1000,No,Yes,Yes,Yes
+818,28/08/14 14:41,44,male,United States,NA,Yes,Yes,Yes,Sometimes,1-May,Yes,Yes,No,Yes
+819,28/08/14 14:46,26,queer,Germany,NA,Yes,No,Yes,Sometimes,Jun-25,Yes,Yes,No,Not sure
+820,28/08/14 14:51,35,Male,Denmark,NA,Yes,Yes,Yes,Often,1-May,No,Yes,No,Yes
+821,28/08/14 14:52,40,Female,United States,WA,No,Yes,Yes,Sometimes,100-500,No,No,Yes,Not sure
+822,28/08/14 14:53,35,Male,Denmark,NA,Yes,Yes,Yes,Often,1-May,No,Yes,No,Yes
+823,28/08/14 14:53,38,M,United States,IL,No,No,No,Never,More than 1000,Yes,Yes,No,Yes
+824,28/08/14 14:57,34,Male,United States,FL,No,No,No,NA,More than 1000,Yes,Yes,Don't know,Not sure
+825,28/08/14 15:01,43,M,United States,MA,No,No,No,NA,More than 1000,No,Yes,Yes,No
+826,28/08/14 15:25,48,Female (cis),United States,CA,No,Yes,No,Often,26-100,No,Yes,Don't know,No
+827,28/08/14 15:32,20,Male,United States,WA,No,No,No,Never,26-100,No,Yes,Don't know,Not sure
+828,28/08/14 15:37,40,M,United States,MI,Yes,No,No,Sometimes,1-May,Yes,Yes,Don't know,Not sure
+829,28/08/14 15:40,29,female,United Kingdom,NA,No,No,Yes,Rarely,Jun-25,No,Yes,Don't know,No
+830,28/08/14 15:43,35,Male,United States,MI,No,Yes,Yes,Sometimes,1-May,No,No,No,Yes
+831,28/08/14 15:48,29,Male,United States,WI,No,Yes,No,Sometimes,More than 1000,Yes,No,Yes,Yes
+832,28/08/14 15:50,40,M,United States,CA,No,No,No,Never,100-500,No,Yes,Yes,Not sure
+833,28/08/14 15:50,29,Male,Sweden,NA,No,No,Yes,Rarely,Jun-25,No,Yes,No,Yes
+834,28/08/14 15:54,29,F,United States,CA,No,Yes,Yes,Rarely,100-500,No,Yes,Yes,Not sure
+835,28/08/14 15:56,34,male,United States,TX,No,No,Yes,Sometimes,1-May,No,Yes,No,No
+836,28/08/14 16:09,44,Male,United Kingdom,NA,No,Yes,Yes,Sometimes,500-1000,No,No,Don't know,No
+837,28/08/14 16:17,24,female,United States,NY,No,Yes,Yes,Often,Jun-25,No,Yes,Yes,Yes
+838,28/08/14 16:31,47,F,United States,PA,No,No,No,NA,100-500,Yes,Yes,Don't know,No
+839,28/08/14 16:42,43,m,United Kingdom,NA,No,Yes,No,NA,More than 1000,No,No,Don't know,No
+840,28/08/14 16:52,36,M,United States,PA,No,No,No,Rarely,More than 1000,No,Yes,Yes,Yes
+841,28/08/14 16:52,43,male,United States,GA,No,No,Yes,Sometimes,More than 1000,No,No,Don't know,No
+842,28/08/14 16:52,36,male,United Kingdom,NA,Yes,No,No,Sometimes,Jun-25,Yes,Yes,No,No
+843,28/08/14 16:54,31,Female,United States,NY,No,Yes,Yes,Sometimes,100-500,No,Yes,Yes,Yes
+844,28/08/14 16:55,35,Male,United States,CA,No,No,No,Sometimes,More than 1000,No,Yes,Don't know,Not sure
+845,28/08/14 16:55,33,male,United States,TN,No,Yes,No,NA,26-100,No,No,Yes,No
+846,28/08/14 16:56,37,Male,Italy,NA,No,No,No,Sometimes,26-100,No,Yes,Don't know,Not sure
+847,28/08/14 16:56,34,M,United States,TN,No,No,Yes,Sometimes,100-500,No,Yes,Don't know,No
+848,28/08/14 16:56,36,Male,Netherlands,NA,Yes,No,Yes,Sometimes,1-May,No,Yes,No,No
+849,28/08/14 16:57,40,m,United States,TN,Yes,Yes,Yes,Sometimes,1-May,Yes,Yes,No,Yes
+850,28/08/14 16:57,40,M,United States,IL,No,No,No,Rarely,More than 1000,No,Yes,Yes,Yes
+851,28/08/14 16:57,42,Male,United States,WI,No,No,Yes,Sometimes,1-May,Yes,Yes,No,Yes
+852,28/08/14 16:58,23,M,United States,KY,No,Yes,No,NA,26-100,Yes,Yes,Yes,Yes
+853,28/08/14 16:58,21,Male,United Kingdom,NA,No,Yes,No,Never,Jun-25,No,No,No,No
+854,28/08/14 16:58,26,Male,Canada,NA,No,No,No,Sometimes,Jun-25,Yes,Yes,No,No
+855,28/08/14 17:01,31,Male,United States,NA,No,Yes,No,NA,Jun-25,No,Yes,Don't know,Not sure
+856,28/08/14 17:01,25,M,United States,CA,No,Yes,No,NA,More than 1000,No,Yes,Yes,Yes
+857,28/08/14 17:01,51,Male,United States,MN,No,No,No,Never,More than 1000,Yes,Yes,Yes,Yes
+858,28/08/14 17:02,24,Male,United States,TN,No,No,No,NA,Jun-25,No,Yes,Don't know,Not sure
+859,28/08/14 17:02,33,Male,United States,MN,No,No,No,NA,100-500,No,Yes,No,No
+860,28/08/14 17:02,32,male,United Kingdom,NA,No,Yes,Yes,Rarely,Jun-25,No,No,No,No
+861,28/08/14 17:02,32,male,United Kingdom,NA,No,Yes,Yes,Rarely,Jun-25,No,No,No,No
+862,28/08/14 17:03,26,Male,United Kingdom,NA,Yes,No,Yes,Rarely,1-May,Yes,Yes,No,Not sure
+863,28/08/14 17:07,23,M,United States,IL,No,No,No,Never,100-500,No,No,Don't know,No
+864,28/08/14 17:07,33,Male,United States,TN,No,Yes,Yes,Often,Jun-25,Yes,Yes,No,Yes
+865,28/08/14 17:07,46,Male,United States,IL,No,No,Yes,Rarely,More than 1000,No,No,Yes,Yes
+866,28/08/14 17:08,34,male,United Kingdom,NA,No,No,No,NA,Jun-25,Yes,Yes,No,No
+867,28/08/14 17:09,35,M,United States,DC,No,Yes,Yes,Sometimes,Jun-25,No,Yes,Yes,Yes
+868,28/08/14 17:10,39,M,United States,KS,No,No,No,NA,1-May,Yes,Yes,No,Yes
+869,28/08/14 17:10,32,male,Germany,NA,Yes,No,No,Sometimes,1-May,Yes,Yes,No,Yes
+870,28/08/14 17:10,43,Male,Mexico,NA,Yes,No,No,NA,More than 1000,Yes,Yes,Don't know,No
+871,28/08/14 17:11,56,m,United States,CA,No,No,Yes,Rarely,More than 1000,Yes,Yes,Yes,Yes
+872,28/08/14 17:12,32,Female,United Kingdom,NA,No,Yes,Yes,Sometimes,100-500,No,Yes,Don't know,No
+873,28/08/14 17:14,41,male,United Kingdom,NA,No,No,No,NA,26-100,No,No,Yes,Yes
+874,28/08/14 17:16,39,Male,United States,TN,No,No,No,NA,More than 1000,Yes,Yes,Don't know,Not sure
+875,28/08/14 17:19,37,Male,United States,OK,No,Yes,No,NA,500-1000,No,No,Yes,Yes
+876,28/08/14 17:19,30,m,United States,CA,Yes,Yes,Yes,Sometimes,Jun-25,Yes,Yes,Don't know,Not sure
+877,28/08/14 17:19,31,Male,United States,TN,No,No,No,NA,26-100,No,Yes,Yes,No
+878,28/08/14 17:20,29,M,United States,TX,No,No,No,NA,More than 1000,No,No,Don't know,Not sure
+879,28/08/14 17:20,23,Female,United Kingdom,NA,No,Yes,No,Never,More than 1000,No,No,No,No
+880,28/08/14 17:21,31,male,United States,CO,No,No,Yes,Never,26-100,No,Yes,Yes,Yes
+881,28/08/14 17:21,29,Male,United States,TN,No,Yes,Yes,Sometimes,26-100,No,Yes,Don't know,Not sure
+882,28/08/14 17:22,30,Mail,United States,GA,No,No,No,Never,26-100,Yes,Yes,Yes,Yes
+883,28/08/14 17:22,37,Male,United States,TN,No,No,No,Never,500-1000,Yes,Yes,Yes,No
+884,28/08/14 17:23,36,male,United States,VA,Yes,No,No,Never,1-May,No,Yes,Yes,No
+885,28/08/14 17:27,35,Male,United States,TN,No,Yes,Yes,Sometimes,26-100,Yes,Yes,Yes,Yes
+886,28/08/14 17:27,41,M,United States,DC,No,Yes,No,Never,500-1000,Yes,No,Don't know,No
+887,28/08/14 17:28,31,Male,United Kingdom,NA,No,No,Yes,Rarely,Jun-25,No,Yes,Don't know,Not sure
+888,28/08/14 17:28,38,m,United Kingdom,NA,No,Yes,No,NA,500-1000,No,No,Yes,Yes
+889,28/08/14 17:31,26,Male,India,NA,Yes,No,No,NA,100-500,No,Yes,No,No
+890,28/08/14 17:33,39,Male,United States,TN,No,Yes,No,Sometimes,More than 1000,No,Yes,Yes,No
+891,28/08/14 17:33,42,male,United States,VA,Yes,Yes,No,Sometimes,Jun-25,Yes,No,Yes,Not sure
+892,28/08/14 17:34,32,Male,United States,TN,Yes,Yes,Yes,Rarely,1-May,Yes,Yes,No,Yes
+893,28/08/14 17:35,29,m,United States,TN,No,Yes,No,NA,100-500,No,Yes,Don't know,Not sure
+894,28/08/14 17:36,30,Male,United States,TN,No,Yes,No,Never,100-500,No,Yes,Yes,No
+895,28/08/14 17:39,40,M,United States,TN,No,Yes,Yes,Often,500-1000,Yes,Yes,Don't know,Not sure
+896,28/08/14 17:45,51,m,United States,TN,No,No,No,NA,100-500,No,No,Don't know,Not sure
+897,28/08/14 17:46,33,Male,United States,IN,No,No,No,Never,More than 1000,No,Yes,Yes,Yes
+898,28/08/14 17:47,34,male,Germany,NA,Yes,No,Yes,Sometimes,1-May,Yes,Yes,No,Not sure
+899,28/08/14 17:47,50,Male,United States,VA,Yes,No,No,Never,1-May,Yes,Yes,No,Yes
+900,28/08/14 17:50,24,Male,United States,TX,No,No,No,Sometimes,26-100,Yes,Yes,Don't know,No
+901,28/08/14 17:56,25,Male,United States,TX,No,Yes,Yes,Rarely,26-100,No,No,No,No
+902,28/08/14 17:57,43,Male,United Kingdom,NA,No,Yes,Yes,Rarely,26-100,No,Yes,No,No
+903,28/08/14 17:57,25,f,United States,CA,Yes,No,Yes,Often,1-May,No,Yes,Yes,Yes
+904,28/08/14 17:59,24,Male,United Kingdom,NA,Yes,No,No,NA,1-May,Yes,Yes,No,Yes
+905,28/08/14 17:59,51,m,United States,CO,Yes,No,No,Never,1-May,No,Yes,No,Yes
+906,28/08/14 17:59,49,Male,United States,OR,No,Yes,Yes,Sometimes,More than 1000,No,Yes,Yes,Yes
+907,28/08/14 18:01,30,Male,United States,OK,No,No,No,NA,More than 1000,Yes,Yes,Yes,No
+908,28/08/14 18:02,25,female,United States,OH,No,Yes,Yes,Sometimes,More than 1000,No,Yes,Yes,Yes
+909,28/08/14 18:07,36,Male,United States,TN,No,No,Yes,Rarely,500-1000,Yes,Yes,Yes,Yes
+910,28/08/14 18:17,48,Male,United States,VA,No,No,Yes,Never,More than 1000,No,Yes,Yes,Yes
+911,28/08/14 18:18,48,male,Australia,NA,No,No,Yes,Sometimes,Jun-25,No,Yes,No,No
+912,28/08/14 18:21,53,Male,United States,OR,No,No,Yes,Rarely,Jun-25,Yes,Yes,Yes,Yes
+913,28/08/14 18:21,24,Female,United Kingdom,NA,No,Yes,Yes,Often,Jun-25,Yes,Yes,No,No
+914,28/08/14 18:26,33,Male,United States,OR,No,Yes,Yes,Sometimes,26-100,No,Yes,Don't know,Yes
+915,28/08/14 18:50,25,Female,Canada,NA,No,Yes,Yes,Sometimes,Jun-25,No,Yes,Yes,Yes
+916,28/08/14 19:03,30,Male,United Kingdom,NA,No,No,Yes,Sometimes,26-100,No,Yes,No,No
+917,28/08/14 19:04,30,Male,United States,PA,Yes,No,No,Never,1-May,Yes,Yes,No,Yes
+918,28/08/14 19:15,34,male,United Kingdom,NA,Yes,No,Yes,Sometimes,1-May,Yes,Yes,No,No
+919,28/08/14 19:26,31,Male,United States,SC,No,No,No,NA,More than 1000,Yes,Yes,Yes,Yes
+920,28/08/14 19:28,22,F,United States,CA,No,Yes,Yes,Often,More than 1000,No,Yes,Don't know,Not sure
+921,28/08/14 19:35,28,Male,United States,TN,No,Yes,No,Sometimes,Jun-25,No,Yes,Don't know,Not sure
+922,28/08/14 20:12,35,Male,United States,UT,No,Yes,Yes,Rarely,26-100,No,No,Yes,Yes
+923,28/08/14 20:31,28,Male,United States,CA,No,Yes,Yes,Sometimes,26-100,No,No,Yes,No
+924,28/08/14 20:49,42,male,New Zealand,NA,No,No,Yes,Sometimes,More than 1000,No,No,No,Yes
+925,28/08/14 21:22,33,Male,United States,MO,No,Yes,No,NA,500-1000,No,Yes,Yes,No
+926,28/08/14 21:24,29,male,United States,CA,No,No,No,Sometimes,More than 1000,No,Yes,Yes,No
+927,28/08/14 21:27,43,M,United States,NA,No,Yes,No,Sometimes,500-1000,No,No,Yes,Not sure
+928,28/08/14 21:30,29,Male,United States,NY,No,No,No,NA,26-100,No,Yes,Yes,Yes
+929,28/08/14 21:33,25,Male,United States,TX,No,No,No,NA,100-500,Yes,Yes,Yes,No
+930,28/08/14 21:38,31,Male,United States,MO,No,Yes,No,Never,100-500,No,Yes,Don't know,No
+931,28/08/14 21:41,35,Female,United States,GA,No,Yes,Yes,Sometimes,Jun-25,No,No,Yes,Not sure
+932,28/08/14 21:47,34,male,United States,TX,No,No,No,Often,1-May,No,Yes,Don't know,No
+933,28/08/14 22:16,43,Cis Male,United States,WA,No,No,Yes,Sometimes,100-500,Yes,Yes,Yes,Yes
+934,28/08/14 22:17,38,Male,United States,WA,No,Yes,Yes,Sometimes,100-500,No,Yes,No,Not sure
+935,28/08/14 22:18,26,Male,United States,WA,No,Yes,Yes,Sometimes,More than 1000,No,Yes,Don't know,Not sure
+936,28/08/14 22:20,38,Male,United Kingdom,NA,Yes,Yes,Yes,Rarely,1-May,Yes,No,No,No
+937,28/08/14 22:22,42,Male,United States,TX,No,No,Yes,Often,Jun-25,No,Yes,Don't know,No
+938,28/08/14 22:23,33,Male,Netherlands,NA,No,Yes,Yes,NA,Jun-25,No,Yes,Don't know,No
+939,28/08/14 22:35,32,Male,United States,WA,No,No,Yes,Rarely,More than 1000,No,Yes,Yes,Yes
+940,28/08/14 22:39,44,male,United States,WA,No,Yes,Yes,Sometimes,Jun-25,Yes,Yes,Yes,Yes
+941,28/08/14 22:46,28,Male,United States,WA,No,Yes,Yes,Rarely,More than 1000,No,Yes,Yes,Yes
+942,28/08/14 23:03,40,Male,United States,WA,No,Yes,Yes,Sometimes,More than 1000,Yes,Yes,Yes,Yes
+943,28/08/14 23:13,31,F,United States,AZ,No,Yes,Yes,Sometimes,500-1000,No,Yes,Yes,Yes
+944,28/08/14 23:16,32,male,United States,WA,No,Yes,No,Sometimes,100-500,No,Yes,Yes,Yes
+945,28/08/14 23:57,28,Male,United States,WA,No,Yes,Yes,Sometimes,More than 1000,No,Yes,Don't know,No
+946,29/08/14 0:05,39,Male,United States,AZ,No,Yes,Yes,Often,26-100,No,Yes,Yes,Yes
+947,29/08/14 0:06,45,Male,United States,NY,No,No,No,NA,More than 1000,No,No,Yes,Yes
+948,29/08/14 0:11,43,Male,United States,WA,No,No,Yes,Rarely,More than 1000,No,Yes,Yes,Yes
+949,29/08/14 0:41,35,Male,United States,CA,No,No,Yes,Sometimes,More than 1000,No,Yes,Yes,Yes
+950,29/08/14 0:43,40,Male,United States,WA,No,Yes,Yes,Sometimes,Jun-25,No,Yes,Yes,Yes
+951,29/08/14 0:47,34,Male,Netherlands,NA,No,No,Yes,Rarely,26-100,No,Yes,No,Yes
+952,29/08/14 1:14,24,Male,United Kingdom,NA,No,Yes,Yes,Often,26-100,No,No,Don't know,Yes
+953,29/08/14 1:20,61,male,South Africa,NA,Yes,No,Yes,Sometimes,1-May,Yes,Yes,No,No
+954,29/08/14 1:40,36,Female ,United States,WA,No,Yes,Yes,Rarely,Jun-25,No,Yes,Don't know,No
+955,29/08/14 2:10,38,Male,United States,TN,No,No,No,NA,Jun-25,No,Yes,No,No
+956,29/08/14 2:24,33,male,Germany,NA,No,Yes,Yes,Often,26-100,No,Yes,Don't know,Not sure
+957,29/08/14 3:02,30,male,United States,WA,No,Yes,No,Never,More than 1000,No,No,Don't know,No
+958,29/08/14 3:02,34,male,Netherlands,NA,Yes,Yes,Yes,Rarely,1-May,Yes,Yes,Yes,Yes
+959,29/08/14 3:08,26,Male,United States,CA,No,No,Yes,Rarely,More than 1000,No,Yes,Yes,Not sure
+960,29/08/14 4:39,33,M,United Kingdom,NA,No,No,No,NA,More than 1000,No,Yes,Don't know,Not sure
+961,29/08/14 4:53,32,Male,United Kingdom,NA,No,No,No,NA,Jun-25,No,Yes,Don't know,No
+962,29/08/14 5:15,25,male,Germany,NA,Yes,No,No,Sometimes,Jun-25,Yes,Yes,No,Yes
+963,29/08/14 5:24,35,male,Germany,NA,Yes,No,Yes,Sometimes,26-100,Yes,No,Don't know,No
+964,29/08/14 5:39,24,M,United Kingdom,NA,Yes,Yes,No,Often,1-May,Yes,Yes,Don't know,Not sure
+965,29/08/14 5:47,55,male,United Kingdom,NA,No,No,Yes,Often,More than 1000,No,No,Yes,Yes
+966,29/08/14 5:54,33,Male,United Kingdom,NA,Yes,Yes,Yes,Sometimes,1-May,Yes,Yes,No,Yes
+967,29/08/14 5:57,26,Female,United Kingdom,NA,Yes,Yes,Yes,Sometimes,1-May,Yes,Yes,No,No
+968,29/08/14 6:06,25,Male,United Kingdom,NA,No,No,No,Never,Jun-25,Yes,Yes,Don't know,Not sure
+969,29/08/14 6:37,45,Male,United Kingdom,NA,No,Yes,No,Rarely,100-500,No,No,Don't know,No
+970,29/08/14 6:42,33,female,United Kingdom,NA,Yes,No,Yes,Sometimes,1-May,Yes,Yes,No,Yes
+971,29/08/14 7:12,43,Male,United States,MI,No,No,No,Sometimes,More than 1000,Yes,Yes,No,Not sure
+972,29/08/14 7:21,30,Male,United Kingdom,NA,Yes,No,Yes,Sometimes,Jun-25,No,Yes,No,Yes
+973,29/08/14 7:28,40,Male,United States,IN,No,Yes,Yes,Rarely,Jun-25,No,Yes,Don't know,Not sure
+974,29/08/14 7:51,49,Male,United States,GA,No,Yes,No,Never,More than 1000,No,Yes,Yes,Yes
+975,29/08/14 8:26,29,Male,Germany,NA,No,No,No,NA,Jun-25,No,Yes,Don't know,Not sure
+976,29/08/14 8:36,26,male,Germany,NA,No,No,No,NA,500-1000,No,Yes,Don't know,No
+977,29/08/14 8:46,38,cis male,United States,WA,No,No,No,Never,More than 1000,No,Yes,Yes,Yes
+978,29/08/14 8:53,27,Male,France,NA,No,Yes,No,NA,500-1000,No,No,Yes,Yes
+979,29/08/14 8:54,26,male,Belgium,NA,No,No,No,Never,Jun-25,No,Yes,Yes,No
+980,29/08/14 8:57,28,Male,United Kingdom,NA,No,Yes,Yes,Often,26-100,No,Yes,No,No
+981,29/08/14 8:57,40,Male,United States,ME,No,Yes,Yes,Sometimes,1-May,Yes,Yes,No,No
+982,29/08/14 8:59,37,Female,Canada,NA,Yes,Yes,Yes,Rarely,1-May,Yes,Yes,No,Yes
+983,29/08/14 8:59,34,female,United Kingdom,NA,No,Yes,Yes,Often,26-100,Yes,No,Yes,Yes
+984,29/08/14 9:01,28,male,United States,NY,No,Yes,Yes,Often,100-500,No,Yes,Don't know,Not sure
+985,29/08/14 9:01,27,Male,Canada,NA,No,No,No,Never,26-100,No,Yes,Yes,Not sure
+986,29/08/14 9:02,29,Male,United Kingdom,NA,No,No,Yes,Sometimes,Jun-25,Yes,Yes,No,No
+987,29/08/14 9:02,39,Female,United Kingdom,NA,No,Yes,No,Rarely,500-1000,Yes,Yes,Don't know,Not sure
+988,29/08/14 9:03,28,male,United Kingdom,NA,No,No,No,Often,Jun-25,No,Yes,No,No
+989,29/08/14 9:10,23,Male,United States,PA,No,Yes,No,Sometimes,26-100,No,Yes,Yes,Not sure
+990,29/08/14 9:10,8,A little about you,"Bahamas, The",IL,Yes,Yes,Yes,Often,1-May,Yes,Yes,Yes,Yes
+991,29/08/14 9:12,38,Male,United Kingdom,NA,No,No,No,NA,1-May,Yes,Yes,No,No
+992,29/08/14 9:13,19,Male,United Kingdom,NA,No,No,No,NA,Jun-25,No,Yes,Yes,No
+993,29/08/14 9:14,30,Female,United States,IL,No,Yes,Yes,Sometimes,26-100,No,Yes,Yes,Yes
+994,29/08/14 9:15,28,male,United Kingdom,NA,Yes,No,No,NA,1-May,Yes,Yes,No,Yes
+995,29/08/14 9:15,20,Male,India,NA,No,No,Yes,Sometimes,26-100,No,Yes,Don't know,No
+996,29/08/14 9:19,35,Male,United Kingdom,NA,Yes,No,No,Sometimes,1-May,No,Yes,Don't know,Not sure
+997,29/08/14 9:24,39,male,United States,MN,No,No,Yes,Rarely,100-500,Yes,Yes,Yes,Yes
+998,29/08/14 9:23,31,Female,United States,TX,No,Yes,No,Never,More than 1000,No,No,Yes,Not sure
+999,29/08/14 9:23,32,Male,United Kingdom,NA,No,No,No,Rarely,500-1000,No,Yes,No,No
+1000,29/08/14 9:27,27,Male,Sweden,NA,No,No,No,NA,Jun-25,No,Yes,No,No
+1001,29/08/14 9:29,25,Male,United States,PA,No,Yes,Yes,Often,Jun-25,Yes,Yes,Yes,Yes
+1002,29/08/14 9:31,42,male,United States,IN,No,Yes,Yes,Sometimes,Jun-25,Yes,Yes,Don't know,No
+1003,29/08/14 9:31,34,male,United States,PA,No,Yes,Yes,Often,100-500,No,Yes,Yes,Yes
+1004,29/08/14 9:33,26,female,United States,OH,No,No,Yes,Sometimes,26-100,Yes,Yes,Don't know,No
+1005,29/08/14 9:35,35,Male,United Kingdom,NA,No,Yes,Yes,Sometimes,1-May,No,Yes,No,Yes
+1006,29/08/14 9:36,34,Male,United Kingdom,NA,No,No,No,Never,500-1000,No,Yes,Don't know,No
+1007,29/08/14 9:36,38,m,United States,PA,No,Yes,Yes,Sometimes,100-500,Yes,No,Yes,Yes
+1008,29/08/14 9:40,34,M,United States,SD,No,No,No,Sometimes,100-500,No,Yes,Don't know,No
+1009,29/08/14 9:42,39,M,United States,IN,No,Yes,Yes,Sometimes,Jun-25,Yes,Yes,No,Yes
+1010,29/08/14 9:46,44,F,United States,CA,No,No,No,NA,100-500,No,Yes,Don't know,Not sure
+1011,29/08/14 9:47,40,male,United States,TN,No,No,No,NA,More than 1000,No,No,Yes,Yes
+1012,29/08/14 9:47,33,female,United States,TX,Yes,No,No,Never,1-May,Yes,Yes,No,Yes
+1013,29/08/14 9:51,24,Female,United States,TN,No,Yes,No,Sometimes,More than 1000,No,No,Yes,Yes
+1014,29/08/14 9:53,38,Female,United States,OR,No,Yes,No,Sometimes,26-100,Yes,Yes,Don't know,Not sure
+1015,29/08/14 9:53,31,male,United States,SD,No,No,No,Sometimes,More than 1000,No,Yes,Yes,Not sure
+1016,29/08/14 9:54,23,Male,Israel,NA,No,No,No,NA,100-500,No,Yes,Don't know,Not sure
+1017,29/08/14 9:54,26,F,United States,NY,No,No,No,NA,Jun-25,No,Yes,Don't know,Not sure
+1018,29/08/14 9:58,46,Female (trans),United States,CT,No,No,Yes,Often,More than 1000,No,No,Yes,Yes
+1019,29/08/14 9:59,30,Male,United States,CA,No,Yes,Yes,Sometimes,26-100,Yes,Yes,Yes,No
+1020,29/08/14 10:03,25,Male,United States,NA,No,No,No,Rarely,26-100,Yes,Yes,Don't know,No
+1021,29/08/14 10:05,19,M,Canada,NA,No,No,No,Never,26-100,Yes,Yes,Don't know,No
+1022,29/08/14 10:06,30,Female,United States,GA,No,Yes,Yes,Sometimes,500-1000,No,No,Yes,Yes
+1023,29/08/14 10:12,32,m,United States,TN,No,No,No,Never,Jun-25,No,Yes,Yes,Yes
+1024,29/08/14 10:13,32,Male,United Kingdom,NA,No,No,No,NA,Jun-25,No,Yes,No,No
+1025,29/08/14 10:13,37,Male,United States,IN,No,Yes,No,Sometimes,26-100,Yes,Yes,Don't know,No
+1026,29/08/14 10:16,42,M,United States,CA,No,Yes,Yes,Sometimes,Jun-25,Yes,Yes,Don't know,No
+1027,29/08/14 10:27,25,female,United States,OR,No,No,No,Never,More than 1000,No,Yes,Yes,Yes
+1028,29/08/14 10:30,19,Male,United States,IN,No,No,No,Sometimes,1-May,No,Yes,Don't know,Not sure
+1029,29/08/14 10:32,40,female,United States,GA,No,Yes,No,Never,100-500,Yes,Yes,Yes,Yes
+1030,29/08/14 10:33,34,Male,United States,IN,No,No,No,NA,More than 1000,No,No,Yes,Not sure
+1031,29/08/14 10:38,26,Male,United States,MN,No,Yes,No,NA,Jun-25,No,Yes,Don't know,Not sure
+1032,29/08/14 10:38,31,Male,United States,MN,No,Yes,Yes,Rarely,Jun-25,No,Yes,Don't know,Not sure
+1033,29/08/14 10:55,40,Male,United States,NC,No,Yes,No,Sometimes,More than 1000,Yes,No,Yes,Not sure
+1034,29/08/14 10:59,31,Female,United States,FL,No,Yes,Yes,Often,26-100,No,Yes,No,No
+1035,29/08/14 11:01,36,M,United States,MN,No,No,No,Never,100-500,No,No,Don't know,No
+1036,29/08/14 11:02,35,Male,Canada,NA,No,Yes,No,Sometimes,Jun-25,Yes,Yes,No,Yes
+1037,29/08/14 11:04,26,male,Australia,NA,No,Yes,Yes,Sometimes,26-100,Yes,Yes,No,No
+1038,29/08/14 11:05,44,m,United States,MO,No,No,No,NA,More than 1000,Yes,No,Don't know,No
+1039,29/08/14 11:11,34,Female,United States,CA,No,No,No,Sometimes,1-May,No,Yes,No,Not sure
+1040,29/08/14 11:12,35,Male,United States,OR,No,No,No,NA,Jun-25,Yes,Yes,No,No
+1041,29/08/14 11:19,28,female,United States,OH,No,Yes,Yes,Sometimes,26-100,Yes,Yes,Don't know,No
+1042,29/08/14 11:20,33,Male,United States,NY,No,No,No,NA,Jun-25,Yes,Yes,Yes,No
+1043,29/08/14 11:20,40,M,United States,WI,No,Yes,Yes,Sometimes,More than 1000,Yes,Yes,Yes,Yes
+1044,29/08/14 11:20,26,Male,United States,WA,No,No,Yes,Sometimes,Jun-25,No,Yes,Yes,Yes
+1045,29/08/14 11:22,29,f,United Kingdom,NA,No,No,Yes,Often,More than 1000,No,No,Yes,Yes
+1046,29/08/14 11:23,26,Female,Canada,NA,No,Yes,Yes,Sometimes,100-500,No,Yes,Yes,Not sure
+1047,29/08/14 11:24,33,Malr,Italy,NA,No,Yes,Yes,Sometimes,Jun-25,No,Yes,No,Not sure
+1048,29/08/14 11:25,28,Male,Brazil,NA,No,Yes,No,Sometimes,100-500,No,Yes,No,No
+1049,29/08/14 11:27,41,Male,United States,IL,Yes,No,Yes,Often,1-May,Yes,No,No,Yes
+1050,29/08/14 11:32,39,Male,United Kingdom,NA,Yes,Yes,Yes,Sometimes,1-May,Yes,Yes,No,Yes
+1051,29/08/14 11:32,26,female,United States,WA,No,Yes,Yes,Sometimes,More than 1000,No,Yes,Yes,Yes
+1052,29/08/14 11:33,23,Female,United States,IL,No,Yes,No,Sometimes,26-100,No,No,No,No
+1053,29/08/14 11:34,35,Male,Switzerland,NA,No,Yes,Yes,Often,More than 1000,No,Yes,Don't know,Not sure
+1054,29/08/14 11:36,36,Male,United States,FL,No,No,No,Never,1-May,Yes,Yes,Don't know,Not sure
+1055,29/08/14 11:39,42,M,United States,TN,No,No,No,Rarely,More than 1000,No,No,Don't know,No
+1056,29/08/14 11:40,39,Male,United States,WA,No,Yes,Yes,Sometimes,500-1000,No,Yes,Yes,Yes
+1057,29/08/14 11:43,27,Male,United States,CA,No,No,No,Never,Jun-25,No,Yes,Don't know,No
+1058,29/08/14 11:44,33,male,United States,FL,Yes,No,No,Never,Jun-25,Yes,Yes,Don't know,No
+1059,29/08/14 11:46,31,Male ,Canada,NA,No,Yes,Yes,Often,More than 1000,No,Yes,Yes,Not sure
+1060,29/08/14 11:53,28,Female,United States,OR,No,No,Yes,Rarely,Jun-25,No,Yes,Yes,Yes
+1061,29/08/14 11:54,29,Female,United States,NJ,No,No,Yes,Often,More than 1000,Yes,No,Yes,No
+1062,29/08/14 11:56,27,Male,United States,CA,No,No,Yes,Sometimes,100-500,No,Yes,Don't know,Not sure
+1063,29/08/14 12:00,44,M,United States,FL,Yes,No,No,Never,1-May,Yes,Yes,Don't know,No
+1064,29/08/14 12:08,25,Male,United States,UT,No,No,Yes,Often,Jun-25,Yes,Yes,Don't know,No
+1065,29/08/14 12:15,24,male,Germany,NA,No,Yes,Yes,Sometimes,Jun-25,No,Yes,No,No
+1066,29/08/14 12:20,25,Male,South Africa,NA,No,Yes,Yes,Often,Jun-25,No,No,Don't know,No
+1067,29/08/14 12:26,34,M,United States,NJ,No,No,No,Never,Jun-25,Yes,Yes,Yes,Not sure
+1068,29/08/14 12:27,26,Male,United States,PA,No,No,No,Never,More than 1000,No,No,Yes,Yes
+1069,29/08/14 12:45,48,Male,United States,IN,No,No,No,Never,26-100,No,No,Yes,Yes
+1070,29/08/14 12:48,34,Male,Greece,NA,No,No,No,NA,26-100,Yes,Yes,No,No
+1071,29/08/14 12:54,39,Female,United States,OH,No,No,Yes,Sometimes,Jun-25,Yes,Yes,No,No
+1072,29/08/14 13:17,43,Male,United States,OH,No,No,No,Sometimes,More than 1000,Yes,Yes,Yes,Not sure
+1073,29/08/14 13:23,41,M,United States,IL,No,No,No,Rarely,More than 1000,No,Yes,Yes,Yes
+1074,29/08/14 13:58,25,Male,United States,IN,No,No,No,Never,More than 1000,No,No,Don't know,No
+1075,29/08/14 14:04,31,m,United States,CA,No,No,Yes,Sometimes,100-500,No,Yes,Yes,Yes
+1076,29/08/14 14:09,40,Male,United States,WA,No,Yes,Yes,Sometimes,More than 1000,No,Yes,Yes,Yes
+1077,29/08/14 14:31,43,Male,United States,VA,Yes,Yes,Yes,Sometimes,1-May,Yes,Yes,Yes,Not sure
+1078,29/08/14 14:51,27,Female,United States,WA,No,Yes,Yes,Often,More than 1000,No,Yes,Yes,Yes
+1079,29/08/14 14:59,37,female,United States,NJ,No,Yes,Yes,Sometimes,26-100,Yes,Yes,Yes,Yes
+1080,29/08/14 15:10,32,male,Netherlands,NA,Yes,No,Yes,Sometimes,1-May,No,Yes,No,No
+1081,29/08/14 15:59,25,Male,United States,UT,No,Yes,Yes,Often,1-May,No,Yes,No,Yes
+1082,29/08/14 16:07,29,Male,Netherlands,NA,No,Yes,Yes,Often,1-May,No,Yes,Don't know,Not sure
+1083,29/08/14 16:17,30,Female,United States,TN,No,Yes,Yes,Often,More than 1000,No,No,Yes,No
+1084,29/08/14 16:21,34,female,Canada,NA,No,Yes,Yes,Often,26-100,No,No,Don't know,No
+1085,29/08/14 16:30,32,male,United Kingdom,NA,No,Yes,Yes,Sometimes,1-May,No,No,Yes,Yes
+1086,29/08/14 16:50,37,male,Germany,NA,No,No,No,NA,Jun-25,No,Yes,Don't know,No
+1087,29/08/14 16:51,41,male,Germany,NA,No,No,Yes,Sometimes,More than 1000,No,Yes,Don't know,No
+1088,29/08/14 16:56,38,male,United States,IN,No,Yes,No,Never,More than 1000,No,No,Yes,Not sure
+1089,29/08/14 17:04,32,Male,United States,IN,No,No,Yes,Sometimes,26-100,No,Yes,Yes,Yes
+1090,29/08/14 17:04,28,Female,United States,CA,No,Yes,Yes,Sometimes,100-500,No,Yes,Yes,Yes
+1091,29/08/14 17:26,11,male,United States,OH,Yes,No,No,Never,1-May,Yes,Yes,No,Yes
+1092,29/08/14 17:32,43,male,United States,TX,No,Yes,No,Never,100-500,No,No,Yes,Yes
+1093,29/08/14 17:35,32,Male,United States,TN,No,Yes,Yes,Often,100-500,No,Yes,No,Yes
+1094,29/08/14 17:54,25,M,United States,WA,No,No,Yes,Sometimes,More than 1000,No,Yes,Yes,Yes
+1095,29/08/14 18:33,37,Male,United States,UT,No,No,Yes,Sometimes,100-500,No,Yes,Yes,No
+1096,29/08/14 18:39,36,male,United States,AL,Yes,No,Yes,Sometimes,1-May,No,No,No,Yes
+1097,29/08/14 19:32,24,Male,United States,WI,No,Yes,Yes,Rarely,Jun-25,Yes,Yes,Don't know,No
+1098,29/08/14 19:34,40,male,United States,WA,No,Yes,Yes,Sometimes,More than 1000,No,Yes,Yes,Not sure
+1099,29/08/14 20:53,29,Male,United States,WI,No,No,No,NA,More than 1000,No,No,Don't know,Not sure
+1100,29/08/14 20:53,43,Male,United States,NY,No,No,No,Never,500-1000,No,Yes,Don't know,No
+1101,29/08/14 21:26,29,Male,United States,NY,No,No,No,NA,Jun-25,Yes,Yes,Yes,Not sure
+1102,29/08/14 21:28,26,Male,United States,OH,No,Yes,No,Sometimes,100-500,No,Yes,Don't know,Not sure
+1103,29/08/14 21:40,33,Female,Canada,NA,Yes,Yes,Yes,Often,1-May,Yes,Yes,No,Yes
+1104,29/08/14 22:08,35,Female,United States,WA,No,Yes,No,Sometimes,Jun-25,Yes,Yes,Don't know,No
+1105,29/08/14 23:51,45,M,United States,CA,No,No,No,Never,Jun-25,Yes,Yes,Yes,No
+1106,30/08/14 0:09,25,Male,United States,SC,No,No,Yes,Rarely,Jun-25,Yes,Yes,No,Yes
+1107,30/08/14 3:55,50,male,France,NA,Yes,No,Yes,Sometimes,26-100,Yes,Yes,No,No
+1108,30/08/14 5:05,26,male,Australia,NA,No,Yes,Yes,Rarely,26-100,No,Yes,No,No
+1109,30/08/14 5:47,33,female,United States,CA,No,No,Yes,Often,More than 1000,No,Yes,Yes,Yes
+1110,30/08/14 6:48,30,Male,India,NA,No,No,No,Often,Jun-25,No,Yes,No,No
+1111,30/08/14 7:31,33,male,Croatia,NA,No,Yes,Yes,Sometimes,Jun-25,Yes,Yes,Yes,Yes
+1112,30/08/14 11:48,29,M,France,NA,No,No,Yes,Often,Jun-25,No,Yes,Yes,No
+1113,30/08/14 12:35,37,male,Germany,NA,No,No,No,NA,Jun-25,Yes,Yes,No,Not sure
+1114,30/08/14 13:23,25,Male,United States,MN,No,Yes,Yes,Sometimes,1-May,Yes,Yes,Don't know,No
+1115,30/08/14 13:48,40,m,United States,WA,No,No,No,NA,More than 1000,No,No,Yes,Not sure
+1116,30/08/14 13:55,24,Male,Canada,NA,No,No,No,Sometimes,26-100,No,Yes,Yes,Yes
+1117,30/08/14 14:00,40,Male,United Kingdom,NA,No,No,Yes,Never,100-500,No,Yes,Don't know,Not sure
+1118,30/08/14 15:57,46,Male,United States,PA,No,Yes,Yes,Sometimes,Jun-25,No,Yes,Don't know,Yes
+1119,30/08/14 16:13,38,Male,United States,NY,No,Yes,Yes,Rarely,More than 1000,No,No,Yes,Yes
+1120,30/08/14 16:38,34,Male,United States,VT,No,No,No,Never,1-May,Yes,Yes,No,Yes
+1121,30/08/14 18:29,32,Male,United Kingdom,NA,Yes,No,Yes,Rarely,1-May,No,Yes,No,Yes
+1122,30/08/14 19:35,44,Male,United Kingdom,NA,No,No,Yes,Sometimes,More than 1000,No,No,No,No
+1123,30/08/14 19:56,33,Female,United Kingdom,NA,No,No,Yes,Never,100-500,No,Yes,Don't know,Not sure
+1124,30/08/14 20:12,45,female,United States,MI,No,No,Yes,Rarely,26-100,No,No,Don't know,No
+1125,30/08/14 20:19,35,Male,United States,NY,No,No,No,NA,Jun-25,No,Yes,Don't know,Not sure
+1126,30/08/14 20:43,26,Male,Germany,NA,Yes,Yes,Yes,Often,1-May,No,Yes,No,No
+1127,30/08/14 20:46,20,female,United States,NY,No,No,Yes,Sometimes,26-100,Yes,Yes,Don't know,Not sure
+1128,30/08/14 20:55,-1,p,United States,AL,Yes,Yes,Yes,Often,1-May,Yes,Yes,Yes,Yes
+1129,31/08/14 4:31,37,Male,Netherlands,NA,No,Yes,No,Sometimes,Jun-25,No,Yes,No,No
+1130,31/08/14 9:19,28,male,United States,MI,No,No,No,NA,More than 1000,No,No,Yes,No
+1131,31/08/14 15:03,42,F,United States,WA,No,Yes,Yes,Sometimes,26-100,No,No,Yes,Yes
+1132,31/08/14 15:23,32,male,United Kingdom,NA,No,No,No,NA,26-100,No,Yes,No,No
+1133,31/08/14 16:48,36,F,United States,TN,No,Yes,Yes,Rarely,More than 1000,Yes,Yes,Yes,Yes
+1134,31/08/14 22:11,27,M,New Zealand,NA,No,No,No,Rarely,26-100,No,Yes,No,Yes
+1135,31/08/14 22:16,27,M,New Zealand,NA,No,No,No,Rarely,26-100,No,Yes,No,Yes
+1136,1/09/14 4:28,27,Male,United Kingdom,NA,No,No,Yes,Sometimes,More than 1000,No,No,No,No
+1137,1/09/14 6:52,25,Male,United Kingdom,NA,No,Yes,Yes,Sometimes,26-100,Yes,Yes,No,No
+1138,1/09/14 6:53,41,M,United Kingdom,NA,No,Yes,No,NA,Jun-25,No,Yes,No,No
+1139,1/09/14 8:19,23,Male,Germany,NA,No,Yes,Yes,Sometimes,Jun-25,No,Yes,Don't know,Not sure
+1140,1/09/14 8:23,21,Male,United Kingdom,NA,No,No,Yes,Sometimes,More than 1000,No,No,Don't know,No
+1141,1/09/14 9:12,26,Male,Moldova,NA,No,No,Yes,Often,26-100,No,Yes,No,Yes
+1142,1/09/14 9:15,29,Male,Sweden,NA,No,No,No,Rarely,More than 1000,No,Yes,Don't know,Not sure
+1143,1/09/14 10:06,28,male,Belgium,NA,No,No,No,Sometimes,More than 1000,No,No,No,No
+1144,1/09/14 10:40,27,female,United Kingdom,NA,No,Yes,No,NA,More than 1000,No,No,No,Yes
+1145,1/09/14 12:00,23,Male,Israel,NA,No,No,No,Never,More than 1000,No,No,No,Yes
+1146,1/09/14 12:45,26,F,United States,NY,No,Yes,No,Sometimes,26-100,Yes,Yes,Don't know,No
+1147,1/09/14 17:59,38,Male,United Kingdom,NA,No,Yes,Yes,Sometimes,1-May,No,Yes,No,Not sure
+1148,1/09/14 21:03,39,M,United Kingdom,NA,No,Yes,Yes,Sometimes,More than 1000,No,No,No,No
+1149,1/09/14 21:34,35,M,United States,IN,No,Yes,Yes,Often,More than 1000,No,No,Yes,Yes
+1150,1/09/14 22:58,32,male,United States,NC,No,No,No,Rarely,Jun-25,No,Yes,Yes,Not sure
+1151,2/09/14 3:13,32,Male,United States,CA,No,No,Yes,Sometimes,More than 1000,No,Yes,Yes,Yes
+1152,2/09/14 4:00,26,Male,United Kingdom,NA,No,No,No,Never,Jun-25,No,Yes,No,No
+1153,2/09/14 8:00,38,Male,Canada,NA,No,Yes,Yes,Rarely,100-500,No,Yes,Don't know,Not sure
+1154,2/09/14 8:24,34,Female,United Kingdom,NA,No,Yes,No,Rarely,26-100,No,No,Yes,Yes
+1155,2/09/14 9:57,39,Male,United States,TN,No,Yes,Yes,Often,26-100,No,No,Don't know,Not sure
+1156,2/09/14 13:18,32,male,Canada,NA,Yes,No,No,Never,Jun-25,Yes,Yes,Don't know,Not sure
+1157,2/09/14 17:04,37,Male,Netherlands,NA,Yes,No,No,Never,1-May,Yes,Yes,Don't know,Not sure
+1158,2/09/14 20:23,31,male,United Kingdom,NA,No,Yes,Yes,Never,Jun-25,No,Yes,Don't know,Not sure
+1159,2/09/14 20:57,30,m,United States,MN,No,Yes,Yes,Rarely,Jun-25,No,Yes,No,Yes
+1160,3/09/14 1:32,51,M,Singapore,NA,No,No,No,Never,More than 1000,Yes,Yes,Don't know,No
+1161,3/09/14 13:09,29,M,United States,NC,No,No,Yes,Sometimes,26-100,No,Yes,Yes,Yes
+1162,4/09/14 6:23,31,Male,United Kingdom,NA,No,No,No,Never,100-500,No,Yes,Yes,No
+1163,4/09/14 8:35,31,Male,India,NA,No,No,No,NA,26-100,No,Yes,Don't know,Not sure
+1164,4/09/14 17:38,26,Male,United States,TX,No,Yes,Yes,Sometimes,Jun-25,Yes,Yes,Don't know,No
+1165,4/09/14 23:42,46,Female,United States,CA,No,No,Yes,Often,100-500,Yes,No,Yes,Yes
+1166,5/09/14 14:15,32,Male,United States,CA,No,Yes,No,Sometimes,More than 1000,No,Yes,Yes,No
+1167,5/09/14 14:19,29,Male,United States,IL,No,Yes,Yes,Sometimes,26-100,No,No,Yes,Yes
+1168,8/09/14 0:52,34,male,Poland,NA,No,No,No,Never,More than 1000,Yes,Yes,Don't know,Not sure
+1169,8/09/14 16:46,26,Male,Colombia,NA,No,No,No,Often,Jun-25,No,Yes,No,No
+1170,8/09/14 21:30,32,Female,United States,PA,No,No,Yes,Sometimes,More than 1000,No,Yes,Yes,Yes
+1171,9/09/14 13:49,29,Male,United States,IL,No,No,No,NA,More than 1000,No,Yes,Don't know,Not sure
+1172,11/09/14 17:00,30,Male,United States,IL,No,No,No,NA,More than 1000,No,No,Yes,No
+1173,12/09/14 19:18,40,F,United States,MN,No,Yes,Yes,Sometimes,26-100,No,Yes,Yes,Yes
+1174,13/09/14 7:52,23,Male,United Kingdom,NA,No,No,Yes,Sometimes,1-May,No,Yes,No,No
+1175,14/09/14 9:04,20,Male,Georgia,NA,No,No,No,Rarely,26-100,No,No,No,No
+1176,14/09/14 20:50,38,male,United States,NY,No,Yes,No,NA,Jun-25,No,Yes,Don't know,No
+1177,20/09/14 13:51,26,Female,United States,MI,No,Yes,Yes,Rarely,100-500,No,Yes,Yes,No
+1178,23/09/14 20:05,29,Male,United States,OH,No,No,No,Never,26-100,No,Yes,No,No
+1179,26/09/14 8:45,40,m,China,NA,Yes,No,No,Sometimes,1-May,Yes,Yes,No,Yes
+1180,26/09/14 10:05,25,female,Bulgaria,UT,No,No,Yes,Sometimes,26-100,Yes,Yes,No,No
+1181,26/09/14 21:25,32,Woman,United States,NY,No,No,Yes,Sometimes,26-100,No,Yes,Yes,Yes
+1182,30/09/14 9:19,38,male,United States,CA,No,Yes,Yes,Sometimes,More than 1000,No,No,Yes,Yes
+1183,2/10/14 21:25,72,Female,United States,IN,No,Yes,Yes,Never,500-1000,Yes,No,Yes,Not sure
+1184,5/10/14 21:16,35,female,United States,IN,No,Yes,Yes,Sometimes,1-May,Yes,Yes,No,No
+1185,9/10/14 11:14,28,F,United States,VA,No,No,Yes,Often,Jun-25,No,Yes,No,Yes
+1186,5/11/14 10:08,27,femail,United States,OK,No,No,No,Never,100-500,No,No,Don't know,Not sure
+1187,6/11/14 11:24,56,female,United States,OR,Yes,No,No,Rarely,1-May,Yes,Yes,Don't know,Not sure
+1188,16/11/14 8:42,38,Male,United States,AL,No,Yes,Yes,Sometimes,26-100,Yes,Yes,Yes,No
+1189,1/12/14 9:58,31,Female,Belgium,NA,No,No,No,NA,26-100,No,Yes,Don't know,Not sure
+1190,15/12/14 0:43,40,Male,United States,AL,No,Yes,Yes,Sometimes,Jun-25,No,Yes,Yes,Yes
+1191,3/01/15 3:38,44,M,United States,OH,No,Yes,Yes,Sometimes,100-500,No,Yes,Yes,Yes
+1192,21/02/15 4:16,34,Male,Canada,NA,No,Yes,No,Sometimes,More than 1000,No,Yes,Yes,Not sure
+1193,21/02/15 4:16,37,Male,United Kingdom,NA,No,No,No,Never,26-100,Yes,Yes,Don't know,No
+1194,21/02/15 4:18,38,male,Italy,NA,No,No,No,Never,26-100,No,Yes,Don't know,Not sure
+1195,21/02/15 4:19,27,male,Germany,NA,No,No,No,NA,26-100,No,Yes,Don't know,Not sure
+1196,21/02/15 4:23,34,female,Ireland,NA,No,No,Yes,Sometimes,500-1000,No,No,Yes,Yes
+1197,21/02/15 4:32,35,Female,Ireland,NA,No,No,No,Rarely,1-May,No,Yes,Don't know,No
+1198,21/02/15 4:34,34,male,Ireland,NA,No,No,Yes,Often,Jun-25,No,Yes,No,No
+1199,21/02/15 4:41,32,Male,United States,TX,No,No,Yes,Often,26-100,Yes,Yes,Yes,Not sure
+1200,21/02/15 4:51,25,male,Ireland,NA,No,No,No,NA,100-500,No,Yes,Don't know,Not sure
+1201,21/02/15 4:55,28,Male,Australia,NA,No,No,Yes,Often,100-500,Yes,Yes,No,Yes
+1202,21/02/15 5:11,28,Female,United States,TX,No,No,Yes,Rarely,Jun-25,No,Yes,Yes,No
+1203,21/02/15 5:34,31,Male,Brazil,NA,Yes,No,Yes,NA,1-May,No,Yes,No,Yes
+1204,21/02/15 5:55,24,Male,United Kingdom,NA,No,No,No,NA,100-500,No,Yes,Don't know,Not sure
+1205,21/02/15 5:55,34,Male,Ireland,NA,No,Yes,Yes,Never,1-May,Yes,Yes,No,No
+1206,21/02/15 6:06,32,male,Ireland,NA,No,No,Yes,Sometimes,Jun-25,No,Yes,No,No
+1207,21/02/15 6:19,34,Male,United Kingdom,NA,No,Yes,No,Often,26-100,Yes,No,Don't know,Not sure
+1208,21/02/15 8:21,23,Male,United States,TX,No,No,Yes,Sometimes,1-May,No,Yes,No,Yes
+1209,21/02/15 8:54,33,Male,Czech Republic,NA,No,Yes,No,Often,100-500,No,Yes,No,Yes
+1210,21/02/15 8:56,29,male,Singapore,NA,No,Yes,Yes,Sometimes,26-100,No,Yes,Don't know,Not sure
+1211,21/02/15 9:10,24,male,Ireland,NA,No,Yes,No,NA,1-May,No,Yes,No,No
+1212,21/02/15 9:16,45,male,Ireland,NA,No,No,No,Never,More than 1000,Yes,Yes,Don't know,Not sure
+1213,21/02/15 9:18,34,Female,United Kingdom,NA,No,No,Yes,Sometimes,More than 1000,No,No,No,Yes
+1214,21/02/15 9:19,31,Male,Philippines,NA,No,No,No,Sometimes,More than 1000,No,Yes,Don't know,No
+1215,21/02/15 9:22,33,Male,United States,FL,No,No,Yes,Often,26-100,Yes,Yes,Yes,Yes
+1216,21/02/15 9:29,28,male,Netherlands,NA,No,No,No,NA,Jun-25,No,Yes,No,Not sure
+1217,21/02/15 9:30,27,Male,United Kingdom,NA,No,No,No,Rarely,More than 1000,Yes,No,Don't know,Not sure
+1218,21/02/15 9:30,42,male,Ireland,NA,No,No,No,Never,26-100,No,Yes,No,Yes
+1219,21/02/15 9:33,28,male,Netherlands,NA,No,No,No,NA,Jun-25,No,Yes,No,Not sure
+1220,21/02/15 9:48,38,Male,United States,TX,No,No,Yes,Sometimes,More than 1000,Yes,Yes,Yes,No
+1221,21/02/15 10:00,46,Male,United States,CA,No,Yes,Yes,Often,26-100,No,Yes,Don't know,No
+1222,21/02/15 10:45,46,male,United States,MD,No,Yes,Yes,Sometimes,100-500,Yes,Yes,Don't know,Not sure
+1223,21/02/15 11:48,41,female,Netherlands,NA,Yes,No,Yes,Rarely,1-May,Yes,Yes,Don't know,Yes
+1224,21/02/15 11:55,23,Male ,United Kingdom,NA,No,No,No,Never,26-100,No,Yes,Don't know,No
+1225,21/02/15 13:19,24,male,Ireland,NA,No,Yes,Yes,Sometimes,More than 1000,No,Yes,Yes,Yes
+1226,21/02/15 15:28,23,female,Ireland,NA,No,No,Yes,Rarely,26-100,No,Yes,No,Yes
+1227,21/02/15 17:19,39,Male,Netherlands,NA,No,No,No,NA,More than 1000,No,No,Yes,Not sure
+1228,21/02/15 18:54,32,Female,Ireland,NA,No,Yes,No,Never,More than 1000,No,Yes,Yes,Yes
+1229,21/02/15 18:59,25,Male,United States,MN,No,Yes,Yes,Sometimes,26-100,No,Yes,Don't know,Yes
+1230,22/02/15 2:40,39,Male,Greece,NA,No,No,No,NA,Jun-25,Yes,Yes,No,No
+1231,24/02/15 8:54,23,Female,United Kingdom,NA,No,Yes,Yes,Sometimes,Jun-25,No,Yes,No,Yes
+1232,24/02/15 8:58,24,Cis Man,United Kingdom,NA,Yes,No,Yes,Sometimes,Jun-25,Yes,Yes,No,No
+1233,24/02/15 9:00,25,Male,United Kingdom,NA,No,Yes,Yes,Sometimes,More than 1000,No,No,Yes,Yes
+1234,24/02/15 9:13,23,Male,United Kingdom,NA,No,No,Yes,Rarely,Jun-25,No,Yes,No,Yes
+1235,24/02/15 9:15,24,"ostensibly male, unsure what that really means",United Kingdom,NA,No,No,Yes,Sometimes,Jun-25,No,No,Don't know,No
+1236,24/02/15 9:18,23,Male,Canada,NA,No,No,Yes,Often,26-100,No,Yes,Yes,Yes
+1237,24/02/15 10:32,60,Male,United States,CA,No,No,Yes,Often,More than 1000,Yes,Yes,Don't know,No
+1238,26/02/15 5:44,28,male,Ireland,NA,No,No,No,Sometimes,26-100,No,Yes,No,Yes
+1239,2/04/15 15:47,28,Male,United States,TN,No,Yes,Yes,Often,More than 1000,No,No,Yes,Yes
+1240,4/04/15 11:22,30,male,Netherlands,NA,No,No,No,Sometimes,500-1000,No,Yes,Don't know,No
+1241,6/04/15 14:58,31,male,Germany,NA,No,Yes,Yes,Sometimes,100-500,No,Yes,Don't know,No
+1242,11/04/15 14:35,31,Male,Poland,NA,Yes,No,Yes,Often,Jun-25,Yes,Yes,No,No
+1243,23/04/15 14:03,28,Male,Ireland,NA,No,No,Yes,Rarely,26-100,No,Yes,Don't know,No
+1244,5/05/15 14:22,43,f,United States,FL,No,Yes,Yes,Rarely,More than 1000,Yes,Yes,Yes,Yes
+1245,5/05/15 15:16,32,female,United Kingdom,NA,No,No,No,NA,More than 1000,No,No,No,No
+1246,6/05/15 10:14,22,Male,Australia,NA,No,Yes,Yes,Often,100-500,No,No,Yes,Yes
+1247,6/05/15 16:55,32,Male,United States,OR,No,No,No,Never,100-500,No,Yes,Yes,Not sure
+1248,7/05/15 10:08,36,male,Finland,NA,No,No,Yes,Often,Jun-25,No,Yes,No,No
+1249,25/06/15 12:24,41,Female,United States,WA,No,Yes,Yes,Sometimes,26-100,No,Yes,Yes,No
+1250,22/07/15 18:57,30,M,United States,CA,No,Yes,Yes,Sometimes,26-100,No,Yes,Yes,Yes
+1251,27/07/15 23:25,30,Male,United States,CA,Yes,Yes,Yes,Often,26-100,No,Yes,Yes,Not sure
+1252,17/08/15 9:38,36,Male,South Africa,NA,No,Yes,Yes,Often,100-500,No,No,No,Yes
+1253,20/08/15 16:52,29,male,United States,NC,No,Yes,Yes,Sometimes,100-500,Yes,Yes,Yes,Yes
+1254,25/08/15 19:59,36,Male,United States,UT,No,Yes,No,Rarely,More than 1000,No,No,Don't know,No
+1255,12/09/15 11:17,26,male,United Kingdom,NA,No,No,Yes,NA,26-100,No,Yes,No,No
+1256,26/09/15 1:07,32,Male,United States,IL,No,Yes,Yes,Often,26-100,Yes,Yes,Yes,Yes
+1257,7/11/15 12:36,34,male,United States,CA,No,Yes,Yes,Sometimes,More than 1000,No,Yes,Yes,Yes
+1258,30/11/15 21:25,46,f,United States,NC,No,No,No,NA,100-500,Yes,Yes,No,Yes
+1259,1/02/16 23:04,25,Male,United States,IL,No,Yes,Yes,Sometimes,26-100,No,No,Yes,Yes
